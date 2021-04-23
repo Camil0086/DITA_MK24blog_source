@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="T02_complaints_how_does_it_work">
+    <title>Complaints - how does it work?</title>
+    <shortdesc>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus semper ultricies
+        odio id tincidunt. Aliquam facilisis pellentesque felis id molestie. Aliquam et diam eget
+        nisl rhoncus gravida vitae a mauris.</shortdesc>
+    <taskbody>
+        <context>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+                exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+            <p><image placement="inline" href="../Images/rekla4-1.jpg" id="image_tf2_5gy_bpb"/></p>
+            <p><object
+                    data="../Objects/Massivmoebel24%20Versand%20-und%20Reklamationsabwicklung.mp4"
+                    outputclass="video"/></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                    incididunt ut labore et dolore magna aliqua.</cmd>
+            </step>
+            <step>
+                <cmd>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                    incididunt ut labore et dolore magna aliqua.</cmd>
+                <info>
+                    <p>
+                        <note type="important">Lorem ipsum dolor sit amet, consectetur adipiscing
+                            elit,</note>
+                    </p>
+                </info>
+            </step>
+            <step>
+                <cmd>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                    incididunt ut labore et dolore magna aliqua.</cmd>
+            </step>
+            <step>
+                <cmd>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                    incididunt ut labore et dolore magna aliqua.</cmd>
+                <info>
+                    <p>
+                        <note id="note_z4b_1sj_bpb" type="remember">Lorem ipsum dolor sit amet,
+                            consectetur adipiscing elit,</note>
+                    </p>
+                </info>
+            </step>
+            <step>
+                <cmd>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                    incididunt ut labore et dolore magna aliqua.</cmd>
+                <choices id="choices_i2r_3sj_bpb">
+                    <choice>Lorem ipsum dolor sit amet, consectetur adipiscing elit, </choice>
+                    <choice>Lorem ipsum dolor sit amet, consectetur adipiscing elit, </choice>
+                    <choice>Lorem ipsum dolor sit amet, consectetur adipiscing elit, </choice>
+                    <choice>Lorem ipsum dolor sit amet, consectetur adipiscing elit, </choice>
+                </choices>
+            </step>
+        </steps>
+        <result id="result_wlx_tlj_bpb">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
+            do eiusmod tempor incididunt ut labore et dolore magna aliqua.<note
+                id="note_dff_cmj_bpb">Your most dissatisfied customers are your best source of
+                learning. - Bill Gates</note></result>
+    </taskbody>
+</task>

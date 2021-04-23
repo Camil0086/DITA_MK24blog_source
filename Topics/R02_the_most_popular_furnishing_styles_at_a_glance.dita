@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="R02_the_most_popular_furnishing_styles_at_a_glance">
+    <title>The most popular furnishing styles at a glance</title>
+    <shortdesc>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus semper ultricies
+        odio id tincidunt. Aliquam facilisis pellentesque felis id molestie. Aliquam et diam eget
+        nisl rhoncus gravida vitae a mauris.</shortdesc>
+    <refbody>
+        <table id="table_hdj_2wq_bpb">
+            <title/>
+            <tgroup cols="6">
+                <colspec colname="c1" colnum="1" colwidth="54.75pt"/>
+                <colspec colname="c2" colnum="2" colwidth="161.25pt"/>
+                <colspec colname="c3" colnum="3" colwidth="60.75pt"/>
+                <colspec colname="c4" colnum="4" colwidth="109.5pt"/>
+                <colspec colname="c5" colnum="5" colwidth="120pt"/>
+                <colspec colname="newCol6" colnum="6" colwidth="108.75pt"/>
+                <thead>
+                    <row>
+                        <entry>Style</entry>
+                        <entry>Picture</entry>
+                        <entry>Range example</entry>
+                        <entry>Description</entry>
+                        <entry>Origin</entry>
+                        <entry>For whom</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>Colonial</entry>
+                        <entry><image placement="inline" href="../Images/09-331-620-4704_35191.jpg"
+                                id="image_arl_xwq_bpb"/></entry>
+                        <entry>Oxford</entry>
+                        <entry>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tempus
+                            orci orci, nec dignissim diam hendrerit sit amet. Ut eget odio et nulla
+                            fermentum imperdiet.</entry>
+                        <entry>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</entry>
+                        <entry>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</entry>
+                    </row>
+                    <row>
+                        <entry>Industrial</entry>
+                        <entry><image placement="inline"
+                                href="../Images/09-312-811-0006_5713-300x211.jpg"
+                                id="image_tr1_ywq_bpb"/></entry>
+                        <entry>Factory</entry>
+                        <entry>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tempus
+                            orci orci, nec dignissim diam hendrerit sit amet. Ut eget odio et nulla
+                            fermentum imperdiet.</entry>
+                        <entry>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</entry>
+                        <entry>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</entry>
+                    </row>
+                    <row>
+                        <entry>Vintage</entry>
+                        <entry><image placement="inline"
+                                href="../Images/09-312-751-0004_7924-300x211.jpg"
+                                id="image_inp_ywq_bpb"/></entry>
+                        <entry>Fable</entry>
+                        <entry>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tempus
+                            orci orci, nec dignissim diam hendrerit sit amet. Ut eget odio et nulla
+                            fermentum imperdiet.</entry>
+                        <entry>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</entry>
+                        <entry>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</entry>
+                    </row>
+                    <row>
+                        <entry>Modern</entry>
+                        <entry><image placement="inline"
+                                href="../Images/09-310-550-0063_294-300x211.jpg"
+                                id="image_yvz_ywq_bpb"/></entry>
+                        <entry>Metro life</entry>
+                        <entry>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tempus
+                            orci orci, nec dignissim diam hendrerit sit amet. Ut eget odio et nulla
+                            fermentum imperdiet.</entry>
+                        <entry>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</entry>
+                        <entry>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</entry>
+                    </row>
+                    <row>
+                        <entry>Loft</entry>
+                        <entry><image placement="inline"
+                                href="../Images/09-330-803-5102_9172-300x211.jpg"
+                                id="image_erl_zwq_bpb"/></entry>
+                        <entry>Detroit</entry>
+                        <entry>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tempus
+                            orci orci, nec dignissim diam hendrerit sit amet. Ut eget odio et nulla
+                            fermentum imperdiet.</entry>
+                        <entry>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</entry>
+                        <entry>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference>

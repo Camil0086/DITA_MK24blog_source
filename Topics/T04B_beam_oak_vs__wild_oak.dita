@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="T04B_beam_oak_vs_wild_oak">
+    <title>Beam oak vs. wild oak</title>
+    <shortdesc>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus semper ultricies
+        odio id tincidunt. Aliquam facilisis pellentesque felis id molestie. Aliquam et diam eget
+        nisl rhoncus gravida vitae a mauris.</shortdesc>
+    <conbody>
+        <p><image placement="inline" href="../Images/Tango.jpg" id="image_ald_tcr_bpb"/></p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tempus orci orci, nec
+            dignissim diam hendrerit sit amet. Ut eget odio et nulla fermentum imperdiet. Nullam sed
+            ex commodo justo tempus semper. Nunc at purus malesuada, tempus tortor pellentesque,
+            commodo risus. Sed lobortis vel arcu ut posuere. Integer posuere neque et sodales
+            euismod. Cras quis rutrum dolor. Sed mollis metus arcu, eget feugiat velit gravida
+            vitae.</p>
+        <section id="section_ozr_vcr_bpb">
+            <title>Wild oak</title>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tempus orci orci, nec
+                dignissim diam hendrerit sit amet. Ut eget odio et nulla fermentum imperdiet. Nullam
+                sed ex commodo justo tempus semper. Nunc at purus malesuada, tempus tortor
+                pellentesque,</p>
+            <p><image placement="inline" href="../Images/Wildeiche.jpg" id="image_g4x_xcr_bpb"/></p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tempus orci orci, nec
+                dignissim diam hendrerit sit amet. Ut eget odio et nulla fermentum imperdiet. Nullam
+                sed ex commodo</p>
+        </section>
+        <section id="section_uft_ycr_bpb"><title>Beam oak</title><p>Lorem ipsum dolor sit amet,
+                consectetur adipiscing elit. Donec tempus orci orci, nec dignissim diam hendrerit
+                sit amet. Ut eget odio et nulla fermentum imperdiet. Nullam sed ex
+                commodo</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tempus
+                orci orci, nec dignissim diam hendrerit sit amet. Ut eget odio et nulla fermentum
+                imperdiet. Nullam sed ex commodo</p><image placement="inline"
+                href="../Images/Balkeneiche.jpg" id="image_pz1_bdr_bpb"/></section>
+    </conbody>
+</concept>

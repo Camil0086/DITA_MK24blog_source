@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="T04A_the_acacia_a_real_multi_talent">
+    <title>The acacia - a real multi-talent</title>
+    <shortdesc>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus semper ultricies
+        odio id tincidunt. Aliquam facilisis pellentesque felis id molestie. Aliquam et diam eget
+        nisl rhoncus gravida vitae a mauris.</shortdesc>
+    <conbody>
+        <p><image placement="inline" href="../Images/Akazie_Baum_Sonnenuntergang.jpg"
+                id="image_rlp_gbr_bpb"/></p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tempus orci orci, nec
+            dignissim diam hendrerit sit amet. Ut eget odio et nulla fermentum imperdiet.</p>
+        <p><b>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tempus orcit.</b></p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tempus orci orci, nec
+            dignissim diam hendrerit sit amet. Ut eget odio et nulla fermentum imperdiet.</p>
+        <p><image placement="inline" href="../Images/Massivmoebel24_Oxford_neu-300x212.jpg"
+                id="image_fwg_sbr_bpb"/></p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tempus orcit.</p>
+        <section id="section_txm_vbr_bpb">
+            <title>Lorem ipsum dolor</title>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tempus orci orci, nec
+                dignissim diam hendrerit sit amet. Ut eget odio et nulla fermentum imperdiet.</p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tempus orci orci, nec
+                dignissim diam hendrerit sit amet. Ut eget odio et nulla fermentum imperdiet.</p>
+            <p><image placement="inline" href="../Images/Fotolia_33325937_bearbeitet-300x214.jpg"
+                    id="image_umz_1cr_bpb"/></p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tempus orci orci, nec
+                dignissim diam hendrerit sit amet. Ut eget odio et nulla fermentum imperdiet.</p>
+        </section>
+        <section id="section_ttt_bcr_bpb">
+            <title>Lorem ipsum dolor</title>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tempus orci orci, nec
+                dignissim diam hendrerit sit amet. Ut eget odio et nulla fermentum imperdiet.</p>
+            <p><image placement="inline" href="../Images/Akazienhonig-300x215.jpg"
+                    id="image_wn2_2cr_bpb"/></p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tempus orci orci, nec
+                dignissim diam hendrerit sit amet. Ut eget odio et nulla fermentum imperdiet.</p>
+        </section>
+    </conbody>
+</concept>

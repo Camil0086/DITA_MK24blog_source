@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="Untitled">
+    <title>Removing stains</title>
+    <shortdesc>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus semper ultricies
+        odio id tincidunt. Aliquam facilisis pellentesque felis id molestie. Aliquam et diam eget
+        nisl rhoncus gravida vitae a mauris.</shortdesc>
+    <taskbody>
+        <context>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+                exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+            <p><image placement="inline" href="../Images/Rotweinfleck-auf-Moebel.jpg"
+                    id="image_ebm_rtj_bpb"/></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                    incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, </cmd>
+            </step>
+            <step>
+                <cmd>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                    incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, </cmd>
+            </step>
+            <step>
+                <cmd>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                    incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, </cmd>
+                <info>
+                    <p><image placement="inline" href="../Images/Rotwein_Fleck_behandelt2.jpg"
+                            id="image_snh_qhy_bpb"/></p>
+                    <p>
+                        <note id="note_mpc_vtj_bpb" type="important">Lorem ipsum dolor sit amet,
+                            consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
+                            et dolore magna aliqua. Ut enim ad minim veniam, </note>
+                    </p>
+                </info>
+            </step>
+            <step>
+                <cmd>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                    incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, </cmd>
+                <info>
+                    <p>
+                        <note id="note_vxs_wtj_bpb" type="trouble">Lorem ipsum dolor sit amet,
+                            consectetur adipiscing elit,</note>
+                    </p>
+                </info>
+            </step>
+            <step>
+                <cmd>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                    incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, </cmd>
+            </step>
+        </steps>
+        <result id="result_kvm_ytj_bpb">
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+                exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+        </result>
+    </taskbody>
+</task>

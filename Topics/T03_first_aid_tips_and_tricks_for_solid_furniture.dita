@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="T03_tipps_hints">
+    <title>First aid tips and tricks for solid furniture</title>
+    <shortdesc>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus semper ultricies
+        odio id tincidunt. Aliquam facilisis pellentesque felis id molestie. Aliquam et diam eget
+        nisl rhoncus gravida vitae a mauris.</shortdesc>
+    <taskbody>
+        <context>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut malesuada magna eu mauris
+                consequat, id congue odio pretium. Donec vel mattis arcu. Sed ultrices enim sit amet
+                felis dictum ultrices. Sed rhoncus massa eget felis malesuada, vel euismod justo
+                gravida. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tempor
+                finibus libero eget dapibus. Cras luctus eros eget quam laoreet maximus. Duis ac
+                lorem ac lacus mattis placerat. Quisque a mauris sit amet ipsum posuere consequat
+                vel nec nunc. Suspendisse lacinia facilisis lectus vel mattis. Morbi nec quam
+                venenatis, tincidunt est pulvinar, tempor turpis.</p>
+            <p><image placement="inline" href="../Images/hubert.jpg" id="image_egq_gdy_bpb"/></p>
+            <p>Nulla accumsan orci nec sapien interdum ullamcorper. Praesent ullamcorper erat
+                malesuada, maximus mi quis, cursus sapien. Vestibulum facilisis velit tincidunt nibh
+                aliquam, vel sollicitudin metus tristique. Quisque ut commodo augue. Praesent mollis
+                lorem ac magna imperdiet, non bibendum odio tincidunt. Pellentesque quis magna id
+                ligula egestas faucibus sit amet a urna. Class aptent taciti sociosqu ad litora
+                torquent per conubia nostra, per inceptos himenaeos. Proin nisi ex, bibendum vitae
+                augue vitae, tincidunt molestie sapien.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd/>
+            </step>
+        </steps>
+    </taskbody>
+</task>

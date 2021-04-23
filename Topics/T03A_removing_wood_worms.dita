@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="T03A_removing_wood_worms">
+    <title>Removing wood worms</title>
+    <shortdesc>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus semper ultricies
+        odio id tincidunt. Aliquam facilisis pellentesque felis id molestie. Aliquam et diam eget
+        nisl rhoncus gravida vitae a mauris.</shortdesc>
+    <taskbody>
+        <context>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+                exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+            <p><image placement="inline" href="../Images/Holzherz_neu.jpg" id="image_jxh_bhy_bpb"
+                /></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                    incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,</cmd>
+                <info>
+                    <p><image placement="inline" href="../Images/Holzwurm.jpg"
+                            id="image_c1f_ghy_bpb"/></p>
+                </info>
+            </step>
+            <step>
+                <cmd>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                    incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,</cmd>
+            </step>
+            <step>
+                <note id="note_jck_lsj_bpb" type="caution">Lorem ipsum dolor sit amet, consectetur
+                    adipiscing elit, </note>
+                <cmd>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                    incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,</cmd>
+                <info>
+                    <p>
+                        <note id="note_n35_nsj_bpb" type="danger">Lorem ipsum dolor sit amet,
+                            consectetur adipiscing elit, </note>
+                    </p>
+                </info>
+            </step>
+            <step>
+                <cmd>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                    incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,</cmd>
+            </step>
+            <step>
+                <cmd>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                    incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,</cmd>
+            </step>
+        </steps>
+        <result id="result_ttx_xpj_bpb">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
+            do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+            veniam,</result>
+    </taskbody>
+</task>

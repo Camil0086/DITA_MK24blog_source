@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Blog Meble kolonialne 24</title>
+    <topicmeta>
+        <author>Kamil Nowak</author>
+        <copyright>
+            <copyryear year="2021"/>
+            <copyrholder>Meble kolonialne 24</copyrholder>
+        </copyright>
+        <critdates>
+            <created date="2021-04-23"/>
+        </critdates>
+        <prodinfo>
+            <prodname>Blog</prodname>
+        </prodinfo>
+    </topicmeta>
+    <topicref href="Topics/C01_our_friend_the_tree.dita"/>
+    <topicref href="Topics/C02_solid_wood.dita"/>
+    <topicref href="Topics/C03_on_trips_to_india.dita"/>
+    <topicref href="Topics/C04_environmental_friendliness_and_sustainability.dita"/>
+    <topicref href="Topics/T01_from_the_website_to_my_home.dita"/>
+    <topicref href="Topics/T02_complaints_how_does_it_work.dita"/>
+    <topicref href="Topics/T03_first_aid_tips_and_tricks_for_solid_furniture.dita">
+        <topicref href="Topics/T03A_removing_wood_worms.dita"/>
+        <topicref href="Topics/T03B_removing_scratches.dita"/>
+        <topicref href="Topics/T03C_removing_stains.dita"/>
+    </topicref>
+    <topicref href="Topics/R01_known_types_of_wood_at_a_glance.dita">
+        <topicref href="Topics/T04A_the_acacia_a_real_multi_talent.dita"/>
+        <topicref href="Topics/T04B_beam_oak_vs__wild_oak.dita"/>
+    </topicref>
+    <topicref href="Topics/R02_the_most_popular_furnishing_styles_at_a_glance.dita"/>
+    <reltable title="relationship table">
+        <relrow>
+            <relcell>
+                <topicref href="Topics/T03A_removing_wood_worms.dita"/>
+            </relcell>
+            <relcell>
+                <topicref href="Topics/T03B_removing_scratches.dita"/>
+            </relcell>
+        </relrow>
+        <relrow>
+            <relcell>
+                <topicref href="Topics/T03B_removing_scratches.dita"/>
+            </relcell>
+            <relcell>
+                <topicref href="Topics/T03C_removing_stains.dita"/>
+            </relcell>
+        </relrow>
+        <relrow>
+            <relcell>
+                <topicref href="Topics/T03C_removing_stains.dita"/>
+            </relcell>
+            <relcell>
+                <topicref href="Topics/T03A_removing_wood_worms.dita"/>
+            </relcell>
+        </relrow>
+    </reltable>
+</map>

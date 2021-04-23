@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="T03B_removing_scratches">
+    <title>Removing scratches</title>
+    <shortdesc>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus semper ultricies
+        odio id tincidunt. Aliquam facilisis pellentesque felis id molestie. Aliquam et diam eget
+        nisl rhoncus gravida vitae a mauris.</shortdesc>
+    <taskbody>
+        <context>
+            <p><image placement="inline" href="../Images/blog_foto.jpg" id="image_gsl_jhy_bpb"/></p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+                exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                    incididunt ut labore et dolore magna aliqua.</cmd>
+                <info>
+                    <p><image placement="inline"
+                            href="../Images/behandlung_von_rissen_im-holz_01.jpg"
+                            id="image_x4s_khy_bpb"/></p>
+                </info>
+            </step>
+            <step>
+                <cmd>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                    incididunt ut labore et dolore magna aliqua.</cmd>
+                <info>
+                    <p><image placement="inline"
+                            href="../Images/behandlung_von_rissen_im-holz_02-150x150.jpg"
+                            id="image_anr_lhy_bpb"/></p>
+                    <p>
+                        <note id="note_jcb_btj_bpb" type="danger">Lorem ipsum dolor sit amet,
+                            consectetur adipiscing elit, </note>
+                    </p>
+                </info>
+            </step>
+            <step>
+                <cmd>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                    incididunt ut labore et dolore magna aliqua.</cmd>
+                <info>
+                    <p><image placement="inline"
+                            href="../Images/behandlung_von_rissen_im-holz_03.jpg"
+                            id="image_shs_mhy_bpb"/></p>
+                </info>
+            </step>
+            <step>
+                <cmd>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                    incididunt ut labore et dolore magna aliqua.</cmd>
+                <info>
+                    <p>
+                        <note id="note_bvk_dtj_bpb" type="important">Lorem ipsum dolor sit amet,
+                            consectetur adipiscing elit, </note>
+                    </p>
+                </info>
+            </step>
+            <step>
+                <cmd>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                    incididunt ut labore et dolore magna aliqua.</cmd>
+            </step>
+        </steps>
+        <result id="result_w51_ftj_bpb">
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+                exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+        </result>
+    </taskbody>
+</task>
