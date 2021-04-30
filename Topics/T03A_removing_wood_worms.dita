@@ -6,49 +6,65 @@
         odio id tincidunt. Aliquam facilisis pellentesque felis id molestie. Aliquam et diam eget
         nisl rhoncus gravida vitae a mauris.</shortdesc>
     <taskbody>
-        <context>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-                exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-            <p><image placement="inline" href="../Images/Holzherz_neu.jpg" id="image_jxh_bhy_bpb"
-                /></p>
-        </context>
+        <prereq id="prereq_iwg_p2l_lpb">
+            <p>Woodworms are the larvae of the common rodent beetle, which are among the wood
+                destroyers and are therefore declared natural enemies by us, the wood lovers.</p>
+            <p>The larvae need at least one to eight years to develop into beetles and to fly out -
+                the result is the round 1 - 2 mm small exit holes on the infected wood. You can tell
+                whether the larvae are active by the traces of wood dust and if there are such
+                indications, it is definitely time to act.</p>
+            <p>The woodworms love the cold and damp with a wood moisture content of over 10%.
+                Therefore a sustained warmth and dryness in the house is not a good prerequisite for
+                the spread of unwanted subtenants. These can also be expelled through a high
+                temperature of approx. 50 - 60 degrees for one or more hours and is advisable for
+                valuable but heat-insensitive wooden furniture.There are so-called climatic chambers
+                for this purpose, a hair dryer is usually not sufficient. These methods are also
+                very environmentally friendly. There are also professional nitrogen treatment
+                providers. Carpenter Stefan shows us his way of tackling the worm:</p>
+            <p>
+                <note id="note_p2x_pfl_lpb" type="warning">All chemical agents available on the
+                    market are higlhly toxic products. Handle with it carefully and use protective
+                    mask and safety gloves!</note>
+            </p>
+        </prereq>
         <steps>
             <step>
-                <cmd>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                    incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,</cmd>
+                <cmd>When you locate the holes on the infected wood use a vacuum cleaner to suck all
+                    the wood dust</cmd>
                 <info>
+                    <p>
+                        <note id="note_awn_bfl_lpb" type="remember">Don't forget to suck all the
+                            dust from the exit holes themselves, not only what lies around
+                            them!</note>
+                    </p>
                     <p><image placement="inline" href="../Images/Holzwurm.jpg"
                             id="image_c1f_ghy_bpb"/></p>
                 </info>
             </step>
             <step>
-                <cmd>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                    incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,</cmd>
+                <cmd>Use the syringe with a needle and inject substantial amount of chemical agent
+                    into the exit holes. Do not worry if the moisture will appear away from the exit
+                    hole. It only means that the woodworm carved his corridors deep inside the
+                    wood.</cmd>
             </step>
             <step>
-                <note id="note_jck_lsj_bpb" type="caution">Lorem ipsum dolor sit amet, consectetur
-                    adipiscing elit, </note>
-                <cmd>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                    incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,</cmd>
+                <cmd>Clean the surface with a soft cloth and repeat the second step. Clean the
+                    surface again and follow the fourth step.</cmd>
+            </step>
+            <step>
+                <cmd>Take a plastic sheet and seal the treated area airtight so that the toxic fumes
+                    cannot escape.</cmd>
                 <info>
-                    <p>
-                        <note id="note_n35_nsj_bpb" type="danger">Lorem ipsum dolor sit amet,
-                            consectetur adipiscing elit, </note>
-                    </p>
+                    <note id="note_g5v_qjl_lpb">You can use plastic wrap from your kitchen.</note>
                 </info>
             </step>
             <step>
-                <cmd>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                    incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,</cmd>
-            </step>
-            <step>
-                <cmd>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                    incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,</cmd>
+                <cmd>The whole procedure can be carried out several times until there will be no
+                    trace of wood dust around the exit holes.</cmd>
             </step>
         </steps>
-        <result id="result_ttx_xpj_bpb">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-            do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-            veniam,</result>
+        <result id="result_ttx_xpj_bpb">Now everything is taken care of and the noble furnishings
+            made of solid designer wooden furniture can be enjoyed properly and, above all, for a
+            long time.</result>
     </taskbody>
 </task>

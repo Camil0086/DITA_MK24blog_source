@@ -26,9 +26,10 @@
         <topicref href="Topics/T03B_removing_scratches.dita"/>
         <topicref href="Topics/T03C_removing_stains.dita"/>
     </topicref>
+    <topicref href="Topics/T04_order_procedure_how_to_buy_in_our_online_shop.dita"/>
     <topicref href="Topics/R01_known_types_of_wood_at_a_glance.dita">
-        <topicref href="Topics/T04A_the_acacia_a_real_multi_talent.dita"/>
-        <topicref href="Topics/T04B_beam_oak_vs__wild_oak.dita"/>
+        <topicref href="Topics/C05A_the_acacia_a_real_multi_talent.dita"/>
+        <topicref href="Topics/C05B_beam_oak_vs__wild_oak.dita"/>
     </topicref>
     <topicref href="Topics/R02_the_most_popular_furnishing_styles_at_a_glance.dita"/>
     <reltable title="relationship table">

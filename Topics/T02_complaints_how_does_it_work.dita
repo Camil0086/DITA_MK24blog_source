@@ -7,32 +7,44 @@
         nisl rhoncus gravida vitae a mauris.</shortdesc>
     <taskbody>
         <context>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-                exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+            <p>You have finally received your product from Meble kolonialne24, but unfortunately it
+                is damaged? No problem! Our team will take care of your concerns. In the video and
+                study case below we explain how exactly it works.</p>
             <p><image placement="inline" href="../Images/rekla4-1.jpg" id="image_tf2_5gy_bpb"/></p>
-            <p><object
-                    data="../Objects/Massivmoebel24%20Versand%20-und%20Reklamationsabwicklung.mp4"
-                    outputclass="video"/></p>
+            <p>video dodajemy poprzez object</p>
+            <p>
+                <note id="note_kmn_yqw_kpb" type="important">Our team in the warehouse thoroughly
+                    prepars the items to transport. Quality assurance employess are checking each
+                    item before shipping to reject furniture damaged during the transport from
+                    India. </note>
+            </p>
+            <note id="note_f54_srw_kpb" type="remember">When the weight of the package is above 30
+                kg such delivery is packed on a wooden pallet to protect it from damage during the
+                delivery to your home. Our workers wrapp in bubble foil, protect each corner with
+                sponge protectors and packed in carton every item.  </note>
+            <p>Anna has ordered a chest in our e-shop and chosen a shipping company to deliver it to
+                her home.</p>
         </context>
         <steps>
             <step>
-                <cmd>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                    incididunt ut labore et dolore magna aliqua.</cmd>
+                <cmd>She has received an sms with the phone number to the driver and the information
+                    that he will deliver her the chest today . She has called the courier end
+                    established with him the details of the delivery.</cmd>
             </step>
             <step>
-                <cmd>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                    incididunt ut labore et dolore magna aliqua.</cmd>
+                <cmd>The courier has left her the chest on the driveway. Anna has checked the
+                    package and found a visible damage. She confirmed the receipt and required to
+                    unpack the item in presence of the courier. It appeared that the corner of the
+                    chest is crushed so she draw up a statement of damage where she described the
+                    flaw and marked all used protections.</cmd>
                 <info>
                     <p>
-                        <note type="important">Lorem ipsum dolor sit amet, consectetur adipiscing
-                            elit,</note>
+                        <note type="warning" class="- topic/note ">Missin pallet is also </note>
                     </p>
                 </info>
             </step>
             <step>
-                <cmd>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                    incididunt ut labore et dolore magna aliqua.</cmd>
+                <cmd>Anna has unpacked the chest and she has found a damaged corner  </cmd>
             </step>
             <step>
                 <cmd>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor

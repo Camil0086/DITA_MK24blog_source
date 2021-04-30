@@ -10,7 +10,7 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>Topics/R01_known_types_of_wood_at_a_glance.dita</String>
+                                    <String>M01_blog.ditamap</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -30,7 +30,7 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>M01_blog.ditamap</String>
+                                    <String>Topics/R01_known_types_of_wood_at_a_glance.dita</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>

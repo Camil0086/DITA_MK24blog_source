@@ -6,6 +6,15 @@
         odio id tincidunt. Aliquam facilisis pellentesque felis id molestie. Aliquam et diam eget
         nisl rhoncus gravida vitae a mauris.</shortdesc>
     <refbody>
+        <example>
+            <p>The search for new furniture is not always easy and is often annoying and
+                time-consuming. Furniture shops on the Internet or in the vicinity offer numerous
+                designs and styles. From classic to rustic to simply modern furniture, a wide range
+                of products is offered that makes the question of the right type of furnishing much
+                more difficult.</p>
+            <p>In this blog post we will introduce you to the most popular designs and explain which
+                one suits you.</p>
+        </example>
         <table id="table_hdj_2wq_bpb">
             <title/>
             <tgroup cols="6">
@@ -31,11 +40,14 @@
                         <entry><image placement="inline" href="../Images/09-331-620-4704_35191.jpg"
                                 id="image_arl_xwq_bpb"/></entry>
                         <entry>Oxford</entry>
-                        <entry>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tempus
-                            orci orci, nec dignissim diam hendrerit sit amet. Ut eget odio et nulla
-                            fermentum imperdiet.</entry>
-                        <entry>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</entry>
-                        <entry>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</entry>
+                        <entry>A historical architectural style that even goes back well into the
+                            16th or 17th century and shows typical elements of the Baroque and
+                            Renaissance periods.</entry>
+                        <entry>The style of living itself emerged in the 19th century and was first
+                            used in mansions in India and in the African continent during the times
+                            of colonization.</entry>
+                        <entry>This style suits those who walue classic and solidity. Subtle
+                            curvings and iron elements highlight the kolonial origin.</entry>
                     </row>
                     <row>
                         <entry>Industrial</entry>
@@ -43,11 +55,14 @@
                                 href="../Images/09-312-811-0006_5713-300x211.jpg"
                                 id="image_tr1_ywq_bpb"/></entry>
                         <entry>Factory</entry>
-                        <entry>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tempus
-                            orci orci, nec dignissim diam hendrerit sit amet. Ut eget odio et nulla
-                            fermentum imperdiet.</entry>
-                        <entry>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</entry>
-                        <entry>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</entry>
+                        <entry>The industrial style is a style that stands out particularly with the
+                            combination of wood and metal. In general, this furniture evokes a cool
+                            loft character and leaves a lasting impression on the viewer.</entry>
+                        <entry>Industrial interior design takes inspiration from factories built
+                            during the late 19th and early 20th centuries. Buildings built of brick,
+                            concrete, iron, and steel, designed to last for years.</entry>
+                        <entry>For individualists who want to stand out with their home furnishings,
+                            the industrial style is exactly the right choice. </entry>
                     </row>
                     <row>
                         <entry>Vintage</entry>
@@ -55,11 +70,14 @@
                                 href="../Images/09-312-751-0004_7924-300x211.jpg"
                                 id="image_inp_ywq_bpb"/></entry>
                         <entry>Fable</entry>
-                        <entry>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tempus
-                            orci orci, nec dignissim diam hendrerit sit amet. Ut eget odio et nulla
-                            fermentum imperdiet.</entry>
-                        <entry>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</entry>
-                        <entry>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</entry>
+                        <entry>The design direction is based on what is known as the “used look”,
+                            meaning traces of use brought about on purpose, which are intended to
+                            give the appearance a certain antiquity.</entry>
+                        <entry>When it comes to furniture, the vintage style means a retro look that
+                            was particularly popular in the 1930s through to the 1970s.</entry>
+                        <entry>This furnishing style combines imaginative art with nostalgia. Since
+                            each items is unrepeteable it is the right choice for everyone who looks
+                            for uniquness.</entry>
                     </row>
                     <row>
                         <entry>Modern</entry>
@@ -67,11 +85,13 @@
                                 href="../Images/09-310-550-0063_294-300x211.jpg"
                                 id="image_yvz_ywq_bpb"/></entry>
                         <entry>Metro life</entry>
-                        <entry>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tempus
-                            orci orci, nec dignissim diam hendrerit sit amet. Ut eget odio et nulla
-                            fermentum imperdiet.</entry>
-                        <entry>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</entry>
-                        <entry>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</entry>
+                        <entry>Simple shapes without any particular conspicuous features. The design
+                            is rather straightforward and has cubic elements.</entry>
+                        <entry>The term “modern” cannot be defined in general terms in the furniture
+                            industry. So every year there are always new design directions that
+                            would fall into this category.</entry>
+                        <entry>If you want to adapt to the time, we recommend exactly the ones just
+                            mentioned features to look out for.</entry>
                     </row>
                     <row>
                         <entry>Loft</entry>
@@ -79,11 +99,16 @@
                                 href="../Images/09-330-803-5102_9172-300x211.jpg"
                                 id="image_erl_zwq_bpb"/></entry>
                         <entry>Detroit</entry>
-                        <entry>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tempus
-                            orci orci, nec dignissim diam hendrerit sit amet. Ut eget odio et nulla
-                            fermentum imperdiet.</entry>
-                        <entry>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</entry>
-                        <entry>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</entry>
+                        <entry>This type of setup has to as simple as possible. In order to visually
+                            highlight the apartment, own creations or the painting of different
+                            pieces of furniture are essential features of the loft
+                            character.</entry>
+                        <entry>In the 1940s, empty halls, storage rooms or attics were briefly
+                            converted into living space in the USA. These lofts were particularly
+                            sought after by artists who were looking for an inexpensive alternative
+                            to living.</entry>
+                        <entry>This type of furniture is definitely recommended for those who also
+                            have a loft apartment.</entry>
                     </row>
                 </tbody>
             </tgroup>
