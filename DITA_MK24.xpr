@@ -30,7 +30,7 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>Topics/R01_known_types_of_wood_at_a_glance.dita</String>
+                                    <String>Topics/T03C_removing_stains.dita</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -50,7 +50,7 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>Topics/T03C_removing_stains.dita</String>
+                                    <String>Topics/R01_known_types_of_wood_at_a_glance.dita</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -426,7 +426,7 @@
                                     <String>${cfd}</String>
                                 </field>
                                 <field name="outputDir">
-                                    <String>E:\Camil\Dokumenty\szkola\techwriter\Git\DITA output MK24 webhelp</String>
+                                    <String>E:\Camil\Dokumenty\szkola\techwriter\Git\DITA_zaliczenie_output</String>
                                 </field>
                                 <field name="tempDir">
                                     <String>E:\Camil\Dokumenty\szkola\techwriter\Git\DITA output temporary</String>
