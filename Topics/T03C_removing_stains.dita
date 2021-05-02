@@ -6,22 +6,30 @@
         odio id tincidunt. Aliquam facilisis pellentesque felis id molestie. Aliquam et diam eget
         nisl rhoncus gravida vitae a mauris.</shortdesc>
     <taskbody>
-        <prereq id="prereq_wtf_b5z_lpb">The new solid wood table from massivmoebel24 is decorated
-            with many rings in a suspicious shade of red. That must have been the good red wine last
-            night. In the dim candlelight and in the lively conversation with the best friend, the
-            attention was obviously not so much on the wonderfully grained table top. What to do?
-            Luckily there's Stefan, the carpenter!</prereq>
-        <context>There are differences in the treatment of raw surfaces and varnished or stained
-            wood. Here's his ultimate tips for removing red wine and other stains from wood.
-                    <p><image placement="inline" href="../Images/Rotweinfleck-auf-Moebel.jpg"
-                    id="image_ebm_rtj_bpb"/></p><p>If you fill professional</p></context>
+        <prereq id="prereq_wtf_b5z_lpb">If the stain is already dry and the furniture has a raw
+            finish please follow the step 1. If it is an ink stain please follow the step
+            4.</prereq>
+        <context>The new solid wood table from massivmoebel24 is decorated with many rings in a
+            suspicious shade of red. That must have been the good red wine last night. In the dim
+            candlelight and in the lively conversation with the best friend, the attention was
+            obviously not so much on the wonderfully grained table top. What to do? Luckily there's
+            Stefan, the carpenter! <p>There are differences in the treatment of raw surfaces and
+                varnished wood. The latter is especially insensitive to stains, as they are
+                protected from moisture for longer. Here's his ultimate tips for removing red wine
+                and other stains from raw wood. </p><p><image placement="inline"
+                    href="../Images/Rotweinfleck-auf-Moebel.jpg" id="image_ebm_rtj_bpb"
+            /></p></context>
         <steps>
             <step>
-                <cmd>If the stain is already dry, it can be moistened with a standard window
-                    cleaner. To do this, as a first step put the cleaner on a cotton cloth.</cmd>
+                <cmd>Dried stains can be moistened with a standard window cleaner. To do this, as a
+                    first step put the cleaner on a cotton cloth. Another way of bleeching is to use
+                    lemon juice. It is weaker than the solution at step 4 but also less
+                    dangerous.</cmd>
             </step>
             <step>
                 <cmd>Rub it into the affected area.</cmd>
+                <info><image placement="inline" href="../Images/Rotwein_Fleck_behandelt2.jpg"
+                        id="image_hns_242_mpb"/></info>
                 <info>
                     <note id="note_mkn_1wz_lpb" type="important">Always work in the direction of the
                         grain and in careful small circular movements, so you get the best results
@@ -29,39 +37,61 @@
                 </info>
             </step>
             <step>
-                <cmd>After a short drying time, the procedure can be repeated.</cmd>
+                <cmd>After a short drying time, the procedure can be repeated. Then, despite the
+                    solution you have chosen please follow the step 5.</cmd>
             </step>
             <step>
-                <cmd/>
+                <cmd>If you fill professional even more effective way of bleaching is to use 3%
+                    hydrogen peroxide mixed with ammonia, which is available in pharmacies. Follow
+                    the step 2 to 5 if you decide to use it.</cmd>
                 <info>
-                    <p><image placement="inline" href="../Images/Rotwein_Fleck_behandelt2.jpg"
-                            id="image_snh_qhy_bpb"/></p>
+                    <note id="note_imv_mm2_mpb" type="notice">Although it is especially effective
+                        for ink stains, it works for many other stains including dried ones.</note>
+                    <note id="note_zn4_qm2_mpb" type="warning">Stefan warns of the risk of chemical
+                        burns so always work with protective mask and safety gloves. You should test
+                        beforehand in an inconspicuous place how the wood reacts to the
+                        solution.</note>
+                </info>
+            </step>
+            <step>
+                <cmd>If the stain has not completely faded, you can try using abrasives. This can be
+                    a commercially available scouring milk, but also hand washing paste or a coarser
+                    toothpaste. Please follow the step 6 if you have chosen to use one of the
+                    above.</cmd>
+                <info>
                     <p>
-                        <note id="note_mpc_vtj_bpb" type="important">Lorem ipsum dolor sit amet,
-                            consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
-                            et dolore magna aliqua. Ut enim ad minim veniam, </note>
+                        <note id="note_vxs_wtj_bpb" type="remember">Please pay attention to colors
+                            that could in turn remain in the wood.</note>
                     </p>
                 </info>
             </step>
             <step>
-                <cmd>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                    incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, </cmd>
-                <info>
-                    <p>
-                        <note id="note_vxs_wtj_bpb" type="trouble">Lorem ipsum dolor sit amet,
-                            consectetur adipiscing elit,</note>
-                    </p>
-                </info>
+                <cmd>Apply the chosen agent generously to the stains overnight and leave to
+                    soak.</cmd>
             </step>
             <step>
-                <cmd>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                    incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, </cmd>
+                <cmd>The next day, apply again this abrasive to a cloth accordingly to stain
+                    intensity.</cmd>
+            </step>
+            <step>
+                <cmd>First rub the stain thoroughly and then lightly rough the entire surface even
+                    the color.</cmd>
+            </step>
+            <step>
+                <cmd>Now the area has to be sanded with a fine sandpaper.</cmd>
+            </step>
+            <step>
+                <cmd>After this process, clean again with the scouring milk and wash off well.</cmd>
+            </step>
+            <step>
+                <cmd>To nourish and smooth the wood structure, put a wood oil, olive oil or other
+                    household oil on a soft cloth and distribute it well. Remove excess oil and
+                    repeat this process a time or two.</cmd>
             </step>
         </steps>
-        <result id="result_kvm_ytj_bpb">
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-                exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-        </result>
+        <result id="result_kvm_ytj_bpb">After removing the stain, it is important to treat the
+            entire surface with fine sandpaper (150-180 mm) and finish with staining, waxing or
+            oiling. The treated area is less noticeable and the valuable furniture looks like new
+            again!</result>
     </taskbody>
 </task>

@@ -42,8 +42,8 @@
                     little effort. A retouching pen in the right color is often sufficient.</cmd>
                 <info>
                     <p><image placement="inline"
-                            href="../../Oxygen_MK24/Images/behandlung_von_rissen_im-holz_01.jpg"
-                            id="image_ury_b2x_lpb"/></p>
+                            href="../Images/behandlung_von_rissen_im-holz_01.jpg"
+                            id="image_p3h_yk2_mpb"/></p>
                     <p>
                         <note id="note_bvk_dtj_bpb" type="tip">As an alternative you can use a
                             water-based wood stain. </note>
@@ -53,18 +53,20 @@
             <step>
                 <cmd>Dilute it to the desired shade and brush the appropriate area.</cmd>
                 <info><image placement="inline"
-                        href="../../Oxygen_MK24/Images/behandlung_von_rissen_im-holz_02-150x150.jpg"
-                        id="image_bbd_22x_lpb"/></info>
+                        href="../Images/behandlung_von_rissen_im-holz_02-150x150.jpg"
+                        id="image_rjz_yk2_mpb"/></info>
             </step>
             <step>
                 <cmd>If the quirk is matched in color, it is no longer noticeable.</cmd>
-                <info><image placement="inline"
-                        href="../../Oxygen_MK24/Images/behandlung_von_rissen_im-holz_03.jpg"
-                        id="image_xth_v2x_lpb"/><p>
-                        <note id="note_vwl_x2x_lpb" type="tip">If necessary, the scratched paint
-                            layer can be restored with a nitro spray paint to smooth the edges of
+                <info>
+                    <p>
+                        <note id="note_vwl_x2x_lpb" type="tip"><image placement="inline"
+                                href="../Images/behandlung_von_rissen_im-holz_03.jpg"
+                                id="image_lpp_zk2_mpb"/>If necessary, the scratched paint layer can
+                            be restored with a nitro spray paint to smooth the edges of
                             colour.</note>
-                    </p></info>
+                    </p>
+                </info>
             </step>
             <stepsection>In case of deeper scratches, as with the dents, you have to sand them away
                 and reconstruct the previous surface.</stepsection>
