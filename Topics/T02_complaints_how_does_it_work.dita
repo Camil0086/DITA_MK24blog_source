@@ -21,15 +21,15 @@
             <note id="note_f54_srw_kpb" type="remember">When the weight of the package is above 30
                 kg such delivery is packed on a wooden pallet to protect it from damage during the
                 delivery to your home. Our workers wrapp in bubble foil, protect each corner with
-                sponge protectors and packed in carton every item.  </note>
+                sponge protectors and packed in carton every item. </note>
             <p>Anna has ordered a chest in our e-shop and chosen a shipping company to deliver it to
                 her home.</p>
         </context>
         <steps>
             <step>
-                <cmd>She has received an sms with the phone number to the driver and the information
-                    that he will deliver her the chest today . She has called the courier end
-                    established with him the details of the delivery.</cmd>
+                <cmd>At the day of the delivery she has received an sms with the phone number to the
+                    driver and the information that he will deliver her the chest today . She has
+                    called the courier end established with him the details of the delivery.</cmd>
             </step>
             <step>
                 <cmd>The courier has left her the chest on the driveway. Anna has checked the
@@ -38,38 +38,45 @@
                     chest is crushed so she draw up a statement of damage where she described the
                     flaw and marked all used protections.</cmd>
                 <info>
-                    <p>
-                        <note type="warning" class="- topic/note ">Missin pallet is also </note>
-                    </p>
+                    <note id="note_ql1_wrc_npb" type="warning">Missing pallet is also a reason to
+                        unpack the item in the presence of the courier.</note>
+                    <note id="note_ljz_xrc_npb">If  Anna had not found any visible damage of the
+                        packege the courier is not oblidged to stay until she will check the item.
+                        However, we highly recommend to unpack the item as soon as possible after
+                        the delivery and after finding any damages call the courier back and draw up
+                        a statement of damage.</note>
                 </info>
             </step>
             <step>
-                <cmd>Anna has unpacked the chest and she has found a damaged corner  </cmd>
+                <cmd>Anna has taken the pictures of the damaged corner and send them to our support
+                    together with a detail description and a copy of the statement of damage. </cmd>
             </step>
             <step>
-                <cmd>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                    incididunt ut labore et dolore magna aliqua.</cmd>
-                <info>
-                    <p>
-                        <note id="note_z4b_1sj_bpb" type="remember">Lorem ipsum dolor sit amet,
-                            consectetur adipiscing elit,</note>
-                    </p>
-                </info>
-            </step>
-            <step>
-                <cmd>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                    incididunt ut labore et dolore magna aliqua.</cmd>
-                <choices id="choices_i2r_3sj_bpb">
-                    <choice>Lorem ipsum dolor sit amet, consectetur adipiscing elit, </choice>
-                    <choice>Lorem ipsum dolor sit amet, consectetur adipiscing elit, </choice>
-                    <choice>Lorem ipsum dolor sit amet, consectetur adipiscing elit, </choice>
-                    <choice>Lorem ipsum dolor sit amet, consectetur adipiscing elit, </choice>
+                <cmd>Our team has studied the case and decided to give Anna three options how to
+                    solve this.</cmd>
+                <choices>
+                    <choice>a discount or a gift card for future purchase that will compensate
+                        Anna's losses</choice>
+                    <choice>restoration of the damaged item or paying for such service done by
+                        Anna's trusted carpenter</choice>
+                    <choice>an exchange to a new item</choice>
                 </choices>
+                <info>
+                    <note id="note_s54_5rc_npb" type="remember">As a last resort Anna can give up of
+                        the purchase and send the chest back. However, if restoration or exchanging
+                        the item is possible, Meble kolonialne 24 are not oblidged to accept such
+                        decision as a first option.</note>
+                </info>
+            </step>
+            <step>
+                <cmd>Anna has decided to exchange the item for new one. Meble kolonialne 24 has
+                    organize the pick up and delivery of the new chest. </cmd>
             </step>
         </steps>
-        <result id="result_wlx_tlj_bpb">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-            do eiusmod tempor incididunt ut labore et dolore magna aliqua.<note
-                id="note_dff_cmj_bpb">Your most dissatisfied customers are your best source of
-                learning. - Bill Gates</note></result>
+        <result id="result_wlx_tlj_bpb">Anna has received a new chest and this time nothing wrong
+            has happened with it during the delivery. Anna can now enjoy the special and
+            high-quality furniture for a very long time.<note id="note_dff_cmj_bpb">Your most
+                dissatisfied customers are your best source of learning. - Bill
+            Gates</note></result>
     </taskbody>
 </task>
