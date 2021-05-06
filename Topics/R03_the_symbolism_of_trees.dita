@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="R03_the_symbolism_of_trees">
+    <title>The symbolism of trees</title>
+    <shortdesc/>
+    <refbody>
+        <example>
+            <p>Just as gemstones are said to have certain properties and effects, trees and plants
+                are also associated with certain characteristics and meanings. We took a look around
+                and listed some of our most famous local trees with their supposed
+                characteristics.</p>
+            <p>We would of course be interested in whether you agree with said properties or whether
+                you might perceive the plants in a completely different way. We hope you enjoy
+                reading and discovering.</p>
+        </example>
+        <table id="table_jpj_zfk_npb" frame="all">
+            <title/>
+            <tgroup cols="3">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <colspec colname="c3" colnum="3" colwidth="1*"/>
+                <thead>
+                    <row>
+                        <entry>Tree</entry>
+                        <entry>Picture</entry>
+                        <entry>symbolism</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>Walnut</entry>
+                        <entry><image placement="inline" href="../Images/walnut.jpg"
+                                id="image_awx_fhk_npb"/></entry>
+                        <entry>Hard nut, hard wood; serves as a demarcation and is often planted on
+                            the edge of the property; your own demarcation from the outside
+                            strengthens your own path.</entry>
+                    </row>
+                    <row>
+                        <entry>Chestnut</entry>
+                        <entry><image placement="inline" href="../Images/chestnut.jpg"
+                                id="image_oqx_13k_npb"/></entry>
+                        <entry>Spreads cheerfulness, joy and sociability, and is often found in beer
+                            gardens; it has deep roots and promises stressed people more ease in
+                            thinking</entry>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference>
