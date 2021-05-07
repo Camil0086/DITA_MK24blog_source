@@ -9,3 +9,4 @@ In first three commits I have added updated topics
 * in the sixth commit I have added full topic T04_order_procedure_how_to_order_in_our_online_shop
 * in the seventh commit I have finished the topic T02_complaints_how_does_it_work and added full topic C05A_the_acacia_the_real_multi_talent and partly topic C05B_beam_oak_vs_wild_oak
 * 06.05.2021 - in the eight commit I have added partly topic R03_the_symbolism of trees
+* 07.05.2021 - in this update I have changed the template and make small changes in CSS
