@@ -8,5 +8,6 @@ In first three commits I have added updated topics
 * in the fifth commit I have added updated topics: full topic T03C_removing_scratches and partly topic T04_order_procedure_how_to_order_in_our_online_shop
 * in the sixth commit I have added full topic T04_order_procedure_how_to_order_in_our_online_shop
 * in the seventh commit I have finished the topic T02_complaints_how_does_it_work and added full topic C05A_the_acacia_the_real_multi_talent and partly topic C05B_beam_oak_vs_wild_oak
-* 06.05.2021 - in the eight commit I have added partly topic R03_the_symbolism of trees
+* 06.05.2021 - in the eight commit I have added partly topic R03_the_symbolism_of_trees
 * 07.05.2021 - in this update I have changed the template and make small changes in CSS
+* 10.05.2021 - in the tenth commit I have finished the topic R03_the_symbolism_of_trees and added full topic C05C_what_is_sheesham_called_also_rosewood. Thereby, I have finished the draft version.
