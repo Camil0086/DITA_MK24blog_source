@@ -14,10 +14,10 @@
             carpenter Hubert for you again. <p>And here you will find his ultimate tips on how to
                 best tackle pressure and impact points, scratches and holes in the
                     wood.</p><p><image placement="inline" href="../Images/blog_foto.jpg"
-                    id="image_gsl_jhy_bpb"/></p><p>In general, raw wood always requires fewer work
-                steps than treated wood, because basically the following applies: wherever wood is
-                chopped, chips flew and where paint and varnish have been sanded away, both must be
-                reproduced as true to color as possible.</p></context>
+                    id="image_gsl_jhy_bpb" audience="expert"/></p><p>In general, raw wood always
+                requires fewer work steps than treated wood, because basically the following
+                applies: wherever wood is chopped, chips flew and where paint and varnish have been
+                sanded away, both must be reproduced as true to color as possible.</p></context>
         <steps>
             <step>
                 <cmd><b>Dents</b> are best tackled with water and warmth. First three steps applie
@@ -43,7 +43,7 @@
                 <info>
                     <p><image placement="inline"
                             href="../Images/behandlung_von_rissen_im-holz_01.jpg"
-                            id="image_p3h_yk2_mpb"/></p>
+                            id="image_p3h_yk2_mpb" audience="expert"/></p>
                     <p>
                         <note id="note_bvk_dtj_bpb" type="tip">As an alternative you can use a
                             water-based wood stain. </note>
@@ -54,7 +54,7 @@
                 <cmd>Dilute it to the desired shade and brush the appropriate area.</cmd>
                 <info><image placement="inline"
                         href="../Images/behandlung_von_rissen_im-holz_02-150x150.jpg"
-                        id="image_rjz_yk2_mpb"/></info>
+                        id="image_rjz_yk2_mpb" audience="expert"/></info>
             </step>
             <step>
                 <cmd>If the quirk is matched in color, it is no longer noticeable.</cmd>
@@ -62,9 +62,9 @@
                     <p>
                         <note id="note_vwl_x2x_lpb" type="tip"><image placement="inline"
                                 href="../Images/behandlung_von_rissen_im-holz_03.jpg"
-                                id="image_lpp_zk2_mpb"/>If necessary, the scratched paint layer can
-                            be restored with a nitro spray paint to smooth the edges of
-                            colour.</note>
+                                id="image_lpp_zk2_mpb" audience="expert"/>If necessary, the
+                            scratched paint layer can be restored with a nitro spray paint to smooth
+                            the edges of colour.</note>
                     </p>
                 </info>
             </step>
@@ -114,6 +114,8 @@
         <result id="result_w51_ftj_bpb">With these tips you now know that by no means the chest of
             drawers is lost in case of <p>With these tips you now know that the chest of drawers in
                 case of all-out attack of children is by no means lost.</p><p>Good luck with
-                DIY.</p></result>
+                DIY.</p><p/><p audience="expert">Document downloads:</p><p audience="expert"><xref
+                    href="../Objects/M03_removing_scratches_guide.pdf" format="pdf">Removing
+                    scratches guide [PDF]</xref></p></result>
     </taskbody>
 </task>

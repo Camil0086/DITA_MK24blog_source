@@ -35,7 +35,7 @@
                             them!</note>
                     </p>
                     <p><image placement="inline" href="../Images/Holzwurm.jpg"
-                            id="image_c1f_ghy_bpb"/></p>
+                            id="image_c1f_ghy_bpb" audience="expert"/></p>
                 </info>
             </step>
             <step>
@@ -62,6 +62,8 @@
         </steps>
         <result id="result_ttx_xpj_bpb">Now everything is taken care of and the noble furnishings
             made of solid designer wooden furniture can be enjoyed properly and, above all, for a
-            long time.</result>
+            long time.<p/><p audience="expert"><b>Documentation downloads:</b></p><p
+                audience="expert"><xref href="../Objects/M02_removing_wood_worms_guide.pdf"
+                    format="pdf">Removing wood worms guide [PDF]</xref></p></result>
     </taskbody>
 </task>

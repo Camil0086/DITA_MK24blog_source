@@ -18,7 +18,7 @@
                 protected from moisture for longer. Here's his ultimate tips for removing red wine
                 and other stains from raw wood. </p><p><image placement="inline"
                     href="../Images/Rotweinfleck-auf-Moebel.jpg" id="image_ebm_rtj_bpb"
-            /></p></context>
+                    audience="expert"/></p></context>
         <steps>
             <step>
                 <cmd>Dried stains can be moistened with a standard window cleaner. To do this, as a
@@ -29,7 +29,7 @@
             <step>
                 <cmd>Rub it into the affected area.</cmd>
                 <info><image placement="inline" href="../Images/Rotwein_Fleck_behandelt2.jpg"
-                        id="image_hns_242_mpb"/></info>
+                        id="image_hns_242_mpb" audience="expert"/></info>
                 <info>
                     <note id="note_mkn_1wz_lpb" type="important">Always work in the direction of the
                         grain and in careful small circular movements, so you get the best results
@@ -92,6 +92,8 @@
         <result id="result_kvm_ytj_bpb">After removing the stain, it is important to treat the
             entire surface with fine sandpaper (150-180 mm) and finish with staining, waxing or
             oiling. The treated area is less noticeable and the valuable furniture looks like new
-            again!</result>
+                again!<p/><p audience="expert"><b>Document downloads:</b></p><p audience="expert"
+                    ><xref href="../Objects/M04_removing_stains_guide.pdf" format="pdf">Removing
+                    stains guide [PDF]</xref></p></result>
     </taskbody>
 </task>
