@@ -12,3 +12,4 @@ In first three commits I have added updated topics
 * 07.05.2021 - in this update I have changed the template and make small changes in CSS
 * 10.05.2021 - in the tenth commit I have finished the topic R03_the_symbolism_of_trees and added full topic C05C_what_is_sheesham_called_also_rosewood. Thereby, I have finished the draft version.
 * 11.05.2021 - in this update I have created three pdf files available to download from topics T03A to T03C. Also topics full C01 and part of C02 were amended on the basis of chosen styleguide
+* 12.05.2021 - in this update I have added logo and made small changes in CSS by adding header and footer background image.
