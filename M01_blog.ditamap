@@ -34,6 +34,7 @@
     </topicref>
     <topicref href="Topics/R02_the_most_popular_furnishing_styles_at_a_glance.dita"/>
     <topicref href="Topics/R03_the_symbolism_of_trees.dita"/>
+    <topicref href="Topics/Glossary/M05_glossary.ditamap" format="ditamap"/>
     <reltable title="relationship table">
         <relrow>
             <relcell>

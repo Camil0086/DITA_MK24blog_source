@@ -7,7 +7,7 @@
                 <serializableOrderedMap>
                     <entry>
                         <String>keys.context</String>
-                        <String>file:/E:/Camil/Dokumenty/szkola/techwriter/Git/Oxygen_MK24/M01_blog.ditamap</String>
+                        <String>${pdu}/Topics/Glossary/M05_glossary.ditamap</String>
                     </entry>
                     <entry>
                         <String>scenario.associations</String>
@@ -19,6 +19,66 @@
                                 <field name="scenarioIds">
                                     <list>
                                         <String>Blog_MK24_webhelp</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>DITAMAP</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>M03_removing_scratches_guide.ditamap</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>Blog_MK24_pdf</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>DITAMAP</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>Topics/Glossary/M05_glossary.ditamap</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>Blog_MK24_webhelp</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>DITAMAP</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>Topics/T03B_removing_scratches.dita</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>Blog_MK24_pdf</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -59,46 +119,6 @@
                                 <field name="scenarioIds">
                                     <list>
                                         <String>Blog_MK24_webhelp</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>DITAMAP</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioStorageLocations">
-                                    <list>
-                                        <Byte>2</Byte>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>M03_removing_scratches_guide.ditamap</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>Blog_MK24_pdf</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>DITAMAP</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioStorageLocations">
-                                    <list>
-                                        <Byte>2</Byte>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>Topics/T03B_removing_scratches.dita</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>Blog_MK24_pdf</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">

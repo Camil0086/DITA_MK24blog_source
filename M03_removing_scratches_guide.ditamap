@@ -3,4 +3,5 @@
 <map>
     <title>Removing scratches guide</title>
     <topicref href="Topics/T03B_removing_scratches.dita"/>
+    <topicref href="Topics/Glossary/M05_glossary.ditamap" format="ditamap"/>
 </map>

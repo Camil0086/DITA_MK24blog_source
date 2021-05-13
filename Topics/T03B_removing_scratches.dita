@@ -85,8 +85,8 @@
                 </info>
             </step>
             <step>
-                <cmd>Now putty the hole with a color-matching wax and smooth it with a hard wax
-                    plane.</cmd>
+                <cmd>Now putty the hole with a color-matching wax and smooth it with a <term
+                        keyref="G01_hard_wax_plane"/>.</cmd>
                 <info>
                     <note id="note_kqw_2mx_lpb" type="tip">You can copy the grains of the wood if
                         you get the wax putty in two colors.</note>
