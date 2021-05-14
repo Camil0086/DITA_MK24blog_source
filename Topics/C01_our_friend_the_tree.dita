@@ -13,7 +13,7 @@
             conditions and show the enormous flexibility of the woody plant. Bizarre shapes
             occasionally arise and touch our hearts and eyes. We take out the magnifying glass and
             take a closer look at the marvel.</p>
-        <p><image href="../Images/tree_with_big_roots.png" scale="50" id="image_vms_4tk_z4b">
+        <p><image href="../Images/tree_with_big_roots.jpg" scale="50" id="image_vms_4tk_z4b">
                 <alt>Tree with big roots</alt>
             </image></p>
         <p>Tree with big roots.</p>
@@ -35,7 +35,7 @@
                     <tbody>
                         <row>
                             <entry>Root network</entry>
-                            <entry><image href="../Images/root_network.png" id="image_kk4_rvk_z4b">
+                            <entry><image href="../Images/root_network.jpg" id="image_kk4_rvk_z4b">
                                     <alt>Root network of the tree</alt>
                                 </image></entry>
                             <entry>the roots absorb water and nutrients and act as anchoring in the
@@ -43,7 +43,7 @@
                         </row>
                         <row>
                             <entry>Wood bark</entry>
-                            <entry><image href="../Images/wood_bark.png" id="image_ukb_vvk_z4b">
+                            <entry><image href="../Images/wood_bark.jpg" id="image_ukb_vvk_z4b">
                                     <alt>Tree trunk and wood bark</alt>
                                 </image></entry>
                             <entry>
@@ -53,7 +53,7 @@
                         </row>
                         <row>
                             <entry>Branches and leaves</entry>
-                            <entry><image href="../Images/leaf.png" id="image_es5_xvk_z4b">
+                            <entry><image href="../Images/leaf.jpg" id="image_es5_xvk_z4b">
                                     <alt>Tree leaf viewed up close</alt>
                                 </image></entry>
                             <entry>the leaves absorb the energy of the sun and carry out
@@ -65,19 +65,20 @@
         </section>
         <section id="section_gfl_mwk_z4b">
             <title>It should be big and strong</title>
-            <p><image href="../Images/plant_sprout.png" scale="50" id="image_wkp_xwk_z4b">
+            <p><image href="../Images/plant_sprout.jpg" scale="50" id="image_wkp_xwk_z4b">
                     <alt>Plant sprout</alt>
                 </image></p>
             <p>Plant sprout</p>
             <p>A seed sprouts and over time a stem develops from the shoot. This not only grows in
                 height but also in width. This is because the location of the so-called cambium is
                 directly under the bark. A layer that forms new wood cells during the growth period
-                and not only inwards: the young bast cells supplies also the outer bark for
-                reinforcement and the cambium also grows with increasing thickness.</p>
+                and not only inwards: the young <term keyref="G06_bast"/> cells supplies also the
+                outer bark for reinforcement and the cambium also grows with increasing
+                thickness.</p>
         </section>
         <section id="section_thn_dxk_z4b">
             <title>One ring at a time</title>
-            <p><image href="../Images/tree_trunk_cross_section_annual_rings.png" scale="50"
+            <p><image href="../Images/tree_trunk_cross_section_annual_rings.jpg" scale="50"
                     id="image_hzl_3xk_z4b">
                     <alt>Tree trunk cross section annual rings</alt>
                 </image></p>
@@ -92,10 +93,11 @@
             <title>Sapwood, heartwood or ripening wood?</title>
             <p>Sapwood is the younger and mostly light-colored wood in the outer annual rings. In
                 some tree species, the inner sapwood becomes cored. The heartwood stores substances
-                such as resin, wax, fats, and tannins, and thus becomes more resistant, harder, and
-                darker. If there is nucleation without tannin, one speaks of a ripening wood. There
-                are also tree species such as the elm, in which we can find all three kinds. We can
-                call it the core ripening wood.</p>
+                such as <term keyref="G07_resin"/>, wax, fats, and <term keyref="G02_tannins"/>, and
+                thus becomes more resistant, harder, and darker. If there is <term
+                    keyref="G08_nucleation"/> without <term keyref="G02_tannins"/>, one speaks of a
+                ripening wood. There are also tree species such as the elm, in which we can find all
+                three kinds. We can call it the core ripening wood.</p>
         </section>
         <section id="section_yyg_5xk_z4b">
             <title>Firmly anchored</title>
@@ -103,16 +105,16 @@
                 the entire supply would be impossible. Depending on the nature of the soil and the
                 type of tree, we can roughly divide the root system into three systems:</p>
             <ul id="ul_v3r_2yk_z4b">
-                <li>Shallow roots - after the main root has died off, the crown roots attach their
-                    vertical side shoots to the base of the shoot; the result is a flat but large
-                    root plate</li>
-                <li>Heart Roots - with the rhizome as the base, there are many main vertical roots;
-                    there are numerous root branches that radiate vertically or diagonally from
-                    it</li>
+                <li>Shallow roots - after the main root has died off, the <term
+                        keyref="G09_crown_roots"/> attach their vertical side shoots to the base of
+                    the shoot; the result is a flat but large root plate</li>
+                <li>Heart Roots - with the rhizome as the base, there are many main vertical <term
+                        keyref="G09_crown_roots"/>; there are numerous root branches that radiate
+                    vertically or diagonally from it</li>
                 <li>Taproots - here the roots run very deep into the ground like a pole as a direct
                     extension of the trunk</li>
             </ul>
-            <p><image href="../Images/look_into_the_forest.png" scale="50" id="image_ebr_qyk_z4b">
+            <p><image href="../Images/look_into_the_forest.jpg" scale="50" id="image_ebr_qyk_z4b">
                     <alt>Look into the forest</alt>
                 </image></p>
             <p>Look into the forest</p>

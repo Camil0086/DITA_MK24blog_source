@@ -3,7 +3,23 @@
 <map>
     <title>glossary</title>
     <keydef keys="G01_hard_wax_plane" href="G01_hard_wax_plane.dita"/>
+    <keydef keys="G02_tannins" href="G02_tannins.dita"/>
+    <keydef keys="G03_mimosa_bark" href="G03_mimosa_bark.dita"/>
+    <keydef keys="G04_sapwood" href="G04_sapwood.dita"/>
+    <keydef keys="G05_heartwood" href="G05_heartwood.dita"/>
+    <keydef keys="G06_bast" href="G06_bast.dita"/>
+    <keydef keys="G07_resin" href="G07_resin.dita"/>
+    <keydef keys="G08_nucleation" href="G08_nucleation.dita"/>
+    <keydef keys="G09_crown_roots" href="G09_crown_roots.dita"/>
     <topicref href="R04_glossary.dita">
         <topicref keyref="G01_hard_wax_plane"/>
+        <topicref keyref="G02_tannins"/>
+        <topicref keyref="G03_mimosa_bark"/>
+        <topicref keyref="G04_sapwood"/>
+        <topicref keyref="G05_heartwood"/>
+        <topicref keyref="G06_bast"/>
+        <topicref keyref="G07_resin"/>
+        <topicref keyref="G08_nucleation"/>
+        <topicref keyref="G09_crown_roots"/>
     </topicref>
 </map>

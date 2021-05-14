@@ -14,3 +14,4 @@ In first three commits I have added updated topics
 * 11.05.2021 - in this update I have created three pdf files available to download from topics T03A to T03C. Also topics full C01 and part of C02 were amended on the basis of chosen styleguide
 * 12.05.2021 - in this update I have added logo and made small changes in CSS by adding header and footer background image.
 * 13.05.2021 - in this update I have added the glossary
+* 14.05.2021 - in this commit I have updated the glossary

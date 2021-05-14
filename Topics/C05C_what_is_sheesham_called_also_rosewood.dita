@@ -20,8 +20,8 @@
                     diameter of up to 3 meters.</li>
                 <li><b>Special feature:</b> Sheesham wood has a very strong and concise grain.</li>
                 <li><b>Furniture made of sheesham wood: </b>Sheesham furniture is particularly
-                    expressive. This is due to the wood pattern and the deliberate gluing of sapwood
-                    and heartwood.</li>
+                    expressive. This is due to the wood pattern and the deliberate gluing of <term
+                        keyref="G04_sapwood"/> and <term keyref="G05_heartwood"/>.</li>
                 <li><b>Sustainability:</b> Sheesham is a fast growing raw material. Our sheesham
                     wood comes from controlled and responsible plantation cultivation.</li>
                 <li><b>Worth knowing:</b> Sheesham is the state tree in the Indian state of Punjab
@@ -62,12 +62,14 @@
         <section id="section_qn5_shn_4pb">
             <title>Sheesham wood: elegant look thanks to the characterful grain</title>
             <p>With its varied wood pattern, Sheesham makes a real statement. While the inside, the
-                so-called heartwood, of the Dalbergia Sissoo has a golden to dark brown base tone,
-                the outer layers of wood, the sapwood, are more white to light brown.</p>
+                so-called <term keyref="G05_heartwood"/>, of the Dalbergia Sissoo has a golden to
+                dark brown base tone, the outer layers of wood, the <term keyref="G04_sapwood"/>,
+                are more white to light brown.</p>
             <p>We skillfully use these visual differences in our furniture designs: The
                 multi-faceted image, the diverse play of colors and the breathtaking 3D effect are
-                created by gluing together sapwood and heartwood. In short: Sheesham is a type of
-                wood that stands out with its optics!</p>
+                created by gluing together <term keyref="G04_sapwood"/> and <term
+                    keyref="G05_heartwood"/>. In short: Sheesham is a type of wood that stands out
+                with its optics!</p>
         </section>
         <section id="section_lv5_13n_4pb">
             <title>Maintaining sheesham wood: this is important</title>
