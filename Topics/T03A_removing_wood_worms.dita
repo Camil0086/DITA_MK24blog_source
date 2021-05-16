@@ -2,9 +2,8 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="T03A_removing_wood_worms">
     <title>Removing wood worms</title>
-    <shortdesc>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus semper ultricies
-        odio id tincidunt. Aliquam facilisis pellentesque felis id molestie. Aliquam et diam eget
-        nisl rhoncus gravida vitae a mauris.</shortdesc>
+    <shortdesc>You have notices strange small piles of sawdust inside the drawers? You are haring
+        soft scrubble inside your furniture? Learn how to ged rid of unwanted intruders.</shortdesc>
     <taskbody>
         <prereq id="prereq_iwg_p2l_lpb">Woodworms are the larvae of the common rodent beetle, which
             are among the wood destroyers and are therefore declared natural enemies by us, the wood
@@ -14,12 +13,13 @@
                 are such indications, it is definitely time to act.</p><p>The woodworms love the
                 cold and damp with a wood moisture content of over 10%. Therefore a sustained warmth
                 and dryness in the house is not a good prerequisite for the spread of unwanted
-                subtenants. These can also be expelled through a high temperature of approx. 50 - 60
-                degrees for one or more hours and is advisable for valuable but heat-insensitive
-                wooden furniture.There are so-called climatic chambers for this purpose, a hair
-                dryer is usually not sufficient. These methods are also very environmentally
-                friendly. There are also professional nitrogen treatment providers. Carpenter Stefan
-                shows us his way of tackling the worm:</p><p>
+                tresspassers. You can dispose of these through a high temperature of approx. 50 - 60
+                degrees for one or more hours. If you've such opportunity use this method for
+                valuable but heat-insensitive wooden furniture.There're so-called climatic chambers
+                for this purpose. If you're thinking of a hair dryer, we're afraid ti is usually not
+                enough. These methods are also very environmentally friendly. There're also
+                professional nitrogen treatment providers. Carpenter Stefan shows us his way of
+                tackling the worm:</p><p>
                 <note id="note_p2x_pfl_lpb" type="warning">All chemical agents available on the
                     market are higlhly toxic products. Handle it carefully and use protective mask
                     and safety gloves!</note>
@@ -32,7 +32,7 @@
                     <p>
                         <note id="note_awn_bfl_lpb" type="remember">Don't forget to suck all the
                             dust from the exit holes themselves, not only what lies around
-                            them!</note>
+                            them.</note>
                     </p>
                     <p><image placement="inline" href="../Images/Holzwurm.jpg"
                             id="image_c1f_ghy_bpb" audience="expert"/></p>
@@ -40,7 +40,7 @@
             </step>
             <step>
                 <cmd>Use the syringe with a needle and inject substantial amount of chemical agent
-                    into the exit holes. Do not worry if the moisture will appear away from the exit
+                    into the exit holes. Don't worry if the moisture will appear away from the exit
                     hole. It only means that the woodworm carved his corridors deep inside the
                     wood.</cmd>
             </step>
@@ -56,14 +56,19 @@
                 </info>
             </step>
             <step>
-                <cmd>The whole procedure can be carried out several times until there will be no
+                <cmd>Wait few days and observe if piles of wood dust came back. If they do, follow
+                    the fifth step.</cmd>
+            </step>
+            <step>
+                <cmd>You can carry out the whole procedure several times until there will be no
                     trace of wood dust around the exit holes.</cmd>
             </step>
         </steps>
-        <result id="result_ttx_xpj_bpb">Now everything is taken care of and the noble furnishings
-            made of solid designer wooden furniture can be enjoyed properly and, above all, for a
-            long time.<p/><p audience="expert"><b>Documentation downloads:</b></p><p
-                audience="expert"><xref href="../Objects/M02_removing_wood_worms_guide.pdf"
-                    format="pdf">Removing wood worms guide [PDF]</xref></p></result>
+        <result id="result_ttx_xpj_bpb">Congratulations, you have taken care of everything and now
+            you can enjoy the noble furnishings made of solid designer wooden furniture properly
+            and, above all, for a long time.<p/><p audience="expert"><b>Documentation
+                downloads:</b></p><p audience="expert"><xref
+                    href="../Objects/M02_removing_wood_worms_guide.pdf" format="pdf">Removing wood
+                    worms guide [PDF]</xref></p></result>
     </taskbody>
 </task>

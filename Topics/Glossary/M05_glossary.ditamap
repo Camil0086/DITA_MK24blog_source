@@ -11,6 +11,7 @@
     <keydef keys="G07_resin" href="G07_resin.dita"/>
     <keydef keys="G08_nucleation" href="G08_nucleation.dita"/>
     <keydef keys="G09_crown_roots" href="G09_crown_roots.dita"/>
+    <keydef keys="G10_wood_stain" href="G10_wood_stain.dita"/>
     <topicref href="R04_glossary.dita">
         <topicref keyref="G01_hard_wax_plane"/>
         <topicref keyref="G02_tannins"/>
@@ -21,5 +22,6 @@
         <topicref keyref="G07_resin"/>
         <topicref keyref="G08_nucleation"/>
         <topicref keyref="G09_crown_roots"/>
+        <topicref keyref="G10_wood_stain"/>
     </topicref>
 </map>
