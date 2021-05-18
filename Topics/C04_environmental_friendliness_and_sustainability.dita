@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="C04_environmental_friendliness_and_sustainability">
-    <title>Solid wood furniture stands for environmental friendliness and sustainability</title>
-    <shortdesc>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus semper ultricies
-        odio id tincidunt. Aliquam facilisis pellentesque felis id molestie. Aliquam et diam eget
-        nisl rhoncus gravida vitae a mauris.</shortdesc>
+    <title>Solid wood furniture stand for environmental friendliness and sustainability</title>
+    <shortdesc>Did you know that furniture made of solid wood stand for environmental friendliness?
+        Learn what are the advantages of solid wood when we speak about ecological balance. One may
+        say it is just an indirect measures. We say, check our ranges made of recycled wood. </shortdesc>
     <conbody>
         <p><image href="../Images/environmental_protection.jpg" scale="50" id="image_mvs_jnm_1pb">
                 <alt>Environmelntal protection</alt>
@@ -59,6 +59,27 @@
             </p>
             <p>So if you want to buy furniture in the near future and want to do something good for
                 the environment, you should rely on solid wood.</p>
+        </section>
+        <section id="section_obr_2br_qpb">
+            <title>Furniture made of recovered wood. Love at forst sight</title>
+            <p>The furniture is actually made of antique solid wood that has already been used
+                elsewhere. The old wood boards come from shipwrecks, crumbling barns and old houses
+                that were ready to be demolished. Not only planks are used, but also old wooden
+                beams and solid wood elements:</p>
+            <p>
+                <ul id="ul_wp5_fcr_qpb">
+                    <li>old doors</li>
+                    <li>door frames</li>
+                    <li>columns</li>
+                    <li>discarded pieces of furniture</li>
+                    <li>construction timber</li>
+                </ul>
+            </p>
+            <p><image placement="inline" href="../Images/altholz_bild_23.jpg" id="image_nq1_zcr_qpb"
+                /></p>
+            <p>As you can see we do our best to reclaim as much wood as possible. If you choose
+                items made in such way you do not only help the environment but also becaome an
+                owner or unique and beautiful items with its own history.</p>
         </section>
     </conbody>
 </concept>

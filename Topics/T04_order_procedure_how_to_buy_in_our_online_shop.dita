@@ -2,26 +2,24 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="t04_order_procedure_how_to_buy_in_our_online_shop">
     <title>Order procedure - how to buy in our online shop</title>
-    <shortdesc/>
+    <shortdesc>You have lost during the order procedure? How to order unavailable items? Learn
+        details of order procedure and time of delivery.</shortdesc>
     <taskbody>
-        <context>
-            <p>You can easily order furniture in our online shop by putting them to the shopping
-                cart. Then you can choose the payment and delivery.</p>
-            <p>If you will put one item into the shopping cart the system will automatically choose
-                the cheapest way of delivery. Below you can see an example of the shopping cart with
-                one item in it. </p>
-            <p>Beware! The sample price of a delivery may be change.</p>
-            <p>You can choose the delivery to an InPost parcel locker or a post office / Ruch kiosk
-                / Orlen gas station for selected items below 30 kg weight. In the former you will
-                choose the location of a locker under the options of payment and delivery. In the
-                latter the option to choose the pickup point will appear during the stage of
-                delivery data. Below an examples of shopping carts with an InPost parcel locker and
-                a post office / Ruch kiosk / Orlen gas station chosen as a shipping method.</p>
-            <p><image placement="inline" href="../Images/inpost.jpg" id="image_jpf_c3h_mpb"/></p>
-            <p><image placement="inline"
+        <context>You can easily order furniture in our online shop by putting them to the shopping
+            cart. Then you can choose the payment and delivery.<p>If you will put one item into the
+                shopping cart the system will automatically choose the cheapest way of delivery.
+                Below you can see an example of the shopping cart with one item in it.
+                </p><p>Beware! The sample price of a delivery may be change.</p><p>You can choose
+                the delivery to an InPost parcel locker or a post office / Ruch kiosk / Orlen gas
+                station for selected items below 30 kg weight. In the former you will choose the
+                location of a locker under the options of payment and delivery. In the latter the
+                option to choose the pickup point will appear during the stage of delivery data.
+                Below an examples of shopping carts with an InPost parcel locker and a post office /
+                Ruch kiosk / Orlen gas station chosen as a shipping method.</p><p><image
+                    placement="inline" href="../Images/inpost.jpg" id="image_jpf_c3h_mpb"
+                    /></p><p><image placement="inline"
                     href="../Images/post_office_ruch_kiosk_orlen_gas_station.jpg"
-                    id="image_jl2_23h_mpb"/></p>
-        </context>
+                    id="image_jl2_23h_mpb"/></p></context>
         <steps>
             <step>
                 <cmd>After selecting the form of payment and shipping choose "PRZEJDŹ DO KASY" to

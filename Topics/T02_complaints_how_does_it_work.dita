@@ -2,29 +2,25 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="T02_complaints_how_does_it_work">
     <title>Complaints - how does it work?</title>
-    <shortdesc>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus semper ultricies
-        odio id tincidunt. Aliquam facilisis pellentesque felis id molestie. Aliquam et diam eget
-        nisl rhoncus gravida vitae a mauris.</shortdesc>
+    <shortdesc>What to do if you received damaged item? What options you have when it comes to
+        solution of your claim? Here you will learn the entire process of complaint.</shortdesc>
     <taskbody>
-        <context>
-            <p>You have finally received your product from Meble kolonialne24, but unfortunately it
-                is damaged? No problem! Our team will take care of your concerns. In the video and
-                study case below we explain how exactly it works.</p>
-            <p><image placement="inline" href="../Images/rekla4-1.jpg" id="image_tf2_5gy_bpb"/></p>
-            <p>video dodajemy poprzez object</p>
-            <p>
+        <context>You have finally received your product from Meble kolonialne24, but unfortunately
+            it is damaged? No problem! Our team will take care of your concerns. In the video and
+            study case below we explain how exactly it works.<p><image placement="inline"
+                    href="../Images/rekla4-1.jpg" id="image_tf2_5gy_bpb"/></p><p><object
+                    data="../Objects/Massivmoebel24%20Versand%20-und%20Reklamationsabwicklung.mp4"
+                /></p><p>
                 <note id="note_kmn_yqw_kpb" type="important">Our team in the warehouse thoroughly
                     prepars the items to transport. Quality assurance employess are checking each
                     item before shipping to reject furniture damaged during the transport from
                     India. </note>
-            </p>
-            <note id="note_f54_srw_kpb" type="remember">When the weight of the package is above 30
-                kg such delivery is packed on a wooden pallet to protect it from damage during the
-                delivery to your home. Our workers wrapp in bubble foil, protect each corner with
-                sponge protectors and packed in carton every item. </note>
-            <p>Anna has ordered a chest in our e-shop and chosen a shipping company to deliver it to
-                her home.</p>
-        </context>
+            </p><note id="note_f54_srw_kpb" type="remember">When the weight of the package is above
+                30 kg such delivery is packed on a wooden pallet to protect it from damage during
+                the delivery to your home. Our workers wrapp in bubble foil, protect each corner
+                with sponge protectors and packed in carton every item. </note><p>Anna has ordered a
+                chest in our e-shop and chosen a shipping company to deliver it to her
+            home.</p></context>
         <steps>
             <step>
                 <cmd>At the day of the delivery she has received an sms with the phone number to the
@@ -40,7 +36,7 @@
                 <info>
                     <note id="note_ql1_wrc_npb" type="warning">Missing pallet is also a reason to
                         unpack the item in the presence of the courier.</note>
-                    <note id="note_ljz_xrc_npb">If  Anna had not found any visible damage of the
+                    <note id="note_ljz_xrc_npb">If Anna had not found any visible damage of the
                         packege the courier is not oblidged to stay until she will check the item.
                         However, we highly recommend to unpack the item as soon as possible after
                         the delivery and after finding any damages call the courier back and draw up

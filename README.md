@@ -17,3 +17,4 @@ In first three commits I have added updated topics
 * 14.05.2021 - in this commit I have updated the glossary 
 * 15.05.2021 - in this commit I have made small changes in CSS
 * 16.05.2021 - in this commit I have amended topics T03A to T03C on the basis of chosen styleguide. I have also created the separate pdf glossary ditamap to the topic T03C and updated the main glossary. 
+* 18.05.2021 - in this update I have made few content changes and topics updates
