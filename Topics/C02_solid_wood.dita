@@ -3,10 +3,13 @@
 <concept id="C_solid_wood">
     <title>Solid wood</title>
     <shortdesc>Why do we appreciates solid wood so much? How to recognize solid wood? Here you can
-        learn more about the wood itself and why it is so satisfying material for furniture
+        learn more about the wood itself and why it's so satisfying material for furniture
         production.</shortdesc>
     <conbody>
-        <p>The term “solid wood” is used extensively: Especially in the industrial sector or when
+        <p><image placement="inline" href="../Images/solid_wood.jpg" id="image_uck_d4y_qpb">
+                <alt>carpenter is planning a piece of solid wood</alt>
+            </image></p>
+        <p>We use the term “solid wood” extensively: especially in the industrial sector or when
             someone is buying furniture and comes across “solid wood”. But not all wood is equally
             solid. What then solid wood actually means? What degree of requirements do solid woods
             have to meet? And are there uniform quality standards?</p>
@@ -19,42 +22,45 @@
                 further use, workers in lumber mill carve wooden cross-sections or panels out of the
                 tree trunk which then they cut to the required size and separate into lamellas and
                 boards for an industry.</p>
-            <p><image href="../Images/tree_trunk_bark_and_slices.jpg" scale="50"
-                    id="image_vy4_dqg_1pb">
-                    <alt>tree trunk bark and slices</alt>
+            <p><image placement="inline" href="../Images/tree_trunk_bark_and_slices.jpg"
+                    id="image_vpq_t4y_qpb">
+                    <alt>pictures of a raw tree trunk, bark and slices</alt>
                 </image></p>
         </section>
         <section id="section_grh_gqg_1pb">
             <title>From tree to table: this is how furniture is made from solid wood</title>
             <p>But what are the details of making solid wood furniture? Contrary to what one might
                 initially assume, a carpenter doesn't carve a piece of wooden furniture out of the
-                trunk in one piece. Instead, dried natural wood turns into wooden panels. Gluing
-                them firmly together permanently connects one to another. The requirements are that
-                the wood has the same cross-section, the same length, and also the same type of
-                wood. Putting now the dried wooden elements together creates a laminated wood panel,
-                from which making a solid piece of furniture is now possible.</p>
-            <p><image href="../Images/gluing_and%20folding_solid_wood.jpg" scale="50"
-                    id="image_e3j_2rg_1pb">
-                    <alt>gluing solid wood and folding wood panels</alt>
+                trunk in one piece. Instead, dried natural wood is turning into wooden panels.
+                Gluing them firmly together permanently connects one to another. The requirements
+                are that the wood has the same cross-section, the same length, and also the same
+                type of wood. Putting now the dried wooden elements together creates a laminated
+                wood panel, from which making a solid piece of furniture is now possible.</p>
+            <p><image placement="inline" href="../Images/gluing_and%20folding_solid_wood.jpg"
+                    id="image_jp1_2py_qpb">
+                    <alt>gluing wood and folding wood panels</alt>
                 </image></p>
         </section>
         <section id="section_cbz_2rg_1pb">
             <title> Quality criteria of solid wood: quality classes and more</title>
-            <p>From the above we know that wood products made from solid wood must meet certain
-                criteria in order to be considered the quality product that solid wood stands for.
-                In the case of solid wood products, all parts of a wood species must be assignable.
-                That means: all parts must be made of the same solid wood.</p>
-            <p>However, there is an exception for furniture: the rear walls of cupboards or bottom
-                compartments of drawers are excluded. A cabinet made of solid oak with drawer
-                bottoms or a back wall made of wood composite (plywood or MDF) can still carry the
-                quality criterion “solid wood”. For furniture that is advertised with the attribute
-                “solid”, the fronts, side panels and top panels must be made of solid wood. If
-                individual parts are not made of solid wood, one speaks of "partially solid".</p>
-            <p><b>Important:</b> Veneers, chipboard or MDF panels are not solid wood.</p>
+            <p>From the above, we know that wood products made from solid wood must meet certain
+                criteria to consider them as quality products that solid wood stands for. In the
+                case of solid wood products, all parts of a wood species must be assignable. That
+                means: all parts must be made of the same solid wood.</p>
+            <p>However, there's an exception for furniture: solid wood isn't part of the rear walls
+                of cupboards or bottom compartments of drawers. A cabinet made of solid oak with
+                drawer bottoms or a back wall made of wood composite (plywood or MDF) can still
+                carry the quality criterion “solid wood”. When describing a piece of furniture with
+                the attribute “solid”, such wood needs to be the only material of the fronts, side
+                panels, and top panels. One speaks of "partially solid" when solid wood isn't a
+                material of individual parts.</p>
+            <note id="note_dwp_4sy_qpb" type="important"><term keyref="G11_veneer"/>, chipboard or
+                MDF panels are not solid wood.</note>
         </section>
         <section id="section_z5v_3sg_1pb">
             <title>Checklist: How do you recognize solid wood?</title>
-            <p>Solid wood can usually be clearly identified if you know what to look out for:</p>
+            <p>If you know what to look out for, you can usually clearly identify the solid
+                wood:</p>
             <p>
                 <table id="table_zvl_zsg_1pb">
                     <title>Solid wood criteria</title>
@@ -72,7 +78,7 @@
                                 <entry>Weight</entry>
                                 <entry>Solid wood is significantly heavier than plywood or MDF.
                                     Therefore, the weight of a piece of furniture already allows
-                                    conclusions to be drawn about the quality.</entry>
+                                    concluding the quality.</entry>
                             </row>
                             <row>
                                 <entry>Grain and wood appearance</entry>
@@ -85,29 +91,30 @@
                             <row>
                                 <entry>A look at the edges</entry>
                                 <entry>A look at the edges helps to distinguish solid wood from
-                                    veneer or a replica. With real solid wood furniture, the wood
-                                    pattern continues on the edge - you can see that the wood
-                                    structure "continues". This can be grasped with all senses:
-                                    Simply run your finger over the edges and examine the wood image
-                                    and check for completeness. If edges made of PVC are glued on,
-                                    this indicates that it is not solid wood.</entry>
+                                        <term keyref="G11_veneer"/> or a replica. With real solid
+                                    wood furniture, the wood pattern continues on the edge - you can
+                                    see that the wood structure "continues". You can grasp it with
+                                    all senses: simply run your finger over the edges and examine
+                                    the wood image, and check for completeness. If you've felt glue
+                                    between the edges, this indicates that it isn't solid
+                                    wood.</entry>
                             </row>
                         </tbody>
                     </tgroup>
                 </table>
             </p>
-            <p>With a little practice and the right know-how, pieces of furniture made from solid
-                wood can be clearly identified.</p>
-            <p><image href="../Images/solid_wood_edge.jpg" scale="50" id="image_swr_stg_1pb">
-                    <alt>solid wood edge</alt>
+            <p>With a little practice and the right know-how, you can identify the pieces of
+                furniture made from solid wood.</p>
+            <p><image placement="inline" href="../Images/solid_wood_edge.jpg" id="image_ghw_gpy_qpb">
+                    <alt>solid wood edge of a table</alt>
                 </image></p>
         </section>
         <section id="section_a2d_vtg_1pb">
             <title>Conclusion: solid wood as a durable and sustainable raw material</title>
-            <p>Robust, stable and extremely durable - solid real wood is a long-lasting and reliable
-                companion. As an organic and renewable raw material, this natural product is very
-                versatile and offers numerous advantages. Various finishing methods, such as oiling
-                and varnishing, bring out the natural beauty of wood individually.</p>
+            <p>Robust, stable, and extremely durable - solid real wood is a long-lasting and
+                reliable companion. As an organic and renewable raw material, this natural product
+                is very versatile and offers numerous advantages. Various finishing methods, such as
+                oiling and varnishing, bring out the natural beauty of wood individually.</p>
         </section>
     </conbody>
 </concept>

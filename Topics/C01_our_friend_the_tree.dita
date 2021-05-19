@@ -4,19 +4,18 @@
     <title>Our friend the tree</title>
     <shortdesc>Remind yourself few basic facts about trees. Learn the difference between heartwood,
         sapwood, and ripening wood. Here you will learn what you have still did not know or remember
-        what you have already forgotten about our friend the tree. </shortdesc>
+        what you have already forgotten about our friend the tree.</shortdesc>
     <conbody>
         <p>Trees aren't just wood; they're, like everything from Mother Nature, a masterpiece. A
             complicated system guarantees the long life of the largest organisms on earth. A tree
-            consists of roots, trunk, and leafy crown, each species having its special
-            characteristics. These characteristics can differ from the norm due to external
-            conditions and show the enormous flexibility of the woody plant. Bizarre shapes
-            occasionally arise and touch our hearts and eyes. We take out the magnifying glass and
-            take a closer look at the marvel.</p>
-        <p><image href="../Images/tree_with_big_roots.jpg" scale="50" id="image_vms_4tk_z4b">
-                <alt>Tree with big roots</alt>
+            consists of roots, trunk, and leafy crown, each species has its special characteristics.
+            These characteristics can differ from the norm due to external conditions and show the
+            enormous flexibility of the woody plant. Bizarre shapes occasionally arise and touch our
+            hearts and eyes. We take out the magnifying glass and take a closer look at the
+            marvel.</p>
+        <p><image placement="inline" href="../Images/tree_with_big_roots.jpg" id="image_oks_dqy_qpb">
+                <alt>a tree with big net of roots</alt>
             </image></p>
-        <p>Tree with big roots.</p>
         <section id="section_u15_wtk_z4b">
             <title>This is how the tree distributes its tasks</title>
             <table id="table_mkt_y5k_z4b">
@@ -38,8 +37,8 @@
                             <entry><image href="../Images/root_network.jpg" id="image_kk4_rvk_z4b">
                                     <alt>Root network of the tree</alt>
                                 </image></entry>
-                            <entry>the roots absorb water and nutrients and act as anchoring in the
-                                ground</entry>
+                            <entry>The roots absorb water and nutrients and act as anchoring in the
+                                ground.</entry>
                         </row>
                         <row>
                             <entry>Wood bark</entry>
@@ -47,8 +46,8 @@
                                     <alt>Tree trunk and wood bark</alt>
                                 </image></entry>
                             <entry>
-                                <p>the tree trunk connects the roots with the branches and leaves,
-                                    and ensures an exchange of the required substances</p>
+                                <p>The tree trunk connects the roots with the branches and leaves
+                                    and ensures an exchange of the required substances.</p>
                             </entry>
                         </row>
                         <row>
@@ -56,8 +55,8 @@
                             <entry><image href="../Images/leaf.jpg" id="image_es5_xvk_z4b">
                                     <alt>Tree leaf viewed up close</alt>
                                 </image></entry>
-                            <entry>the leaves absorb the energy of the sun and carry out
-                                photosynthesis</entry>
+                            <entry>The leaves absorb the energy of the sun and carry out
+                                photosynthesis.</entry>
                         </row>
                     </tbody>
                 </tgroup>
@@ -65,29 +64,26 @@
         </section>
         <section id="section_gfl_mwk_z4b">
             <title>It should be big and strong</title>
-            <p><image href="../Images/plant_sprout.jpg" scale="50" id="image_wkp_xwk_z4b">
-                    <alt>Plant sprout</alt>
+            <p><image placement="inline" href="../Images/plant_sprout.jpg" id="image_w1x_jqy_qpb">
+                    <alt>a sprout of a plant</alt>
                 </image></p>
-            <p>Plant sprout</p>
             <p>A seed sprouts and over time a stem develops from the shoot. This not only grows in
                 height but also in width. This is because the location of the so-called cambium is
                 directly under the bark. A layer that forms new wood cells during the growth period
-                and not only inwards: the young <term keyref="G06_bast"/> cells supplies also the
-                outer bark for reinforcement and the cambium also grows with increasing
-                thickness.</p>
+                and not only inwards: the young <term keyref="G06_bast"/> cells also supply the
+                outer bark for reinforcement and the cambium grows with increasing thickness.</p>
         </section>
         <section id="section_thn_dxk_z4b">
             <title>One ring at a time</title>
-            <p><image href="../Images/tree_trunk_cross_section_annual_rings.jpg" scale="50"
-                    id="image_hzl_3xk_z4b">
-                    <alt>Tree trunk cross section annual rings</alt>
+            <p><image placement="inline" href="../Images/tree_trunk_cross_section_annual_rings.jpg"
+                    id="image_t53_nqy_qpb">
+                    <alt>tree trunk cross section annual rings</alt>
                 </image></p>
-            <p>Three trunk cross section annual rings</p>
-            <p>The cells do not grow equally all year round. Every year in spring, leaves needs a
-                lot of water and nutrients to emerge. For this purpose, spacious and thin-walled
-                cells of lighter color are produced, the earlywood. From late summer the cambium
-                switches to narrow, thick-walled, and the darker cells of the latewood are on the
-                program. Voila, a beautiful pattern has emerged, the shape of the annual rings.</p>
+            <p>The cells do not grow equally all year round. Every year in spring, leaves need a lot
+                of water and nutrients to emerge. For this purpose, spacious and thin-walled cells
+                of lighter color are produced, the earlywood. From late summer the cambium switches
+                to narrow, thick-walled, and the darker cells of the latewood are on the program.
+                Voila, a beautiful pattern has emerged, the shape of the annual rings.</p>
         </section>
         <section id="section_abg_4xk_z4b">
             <title>Sapwood, heartwood or ripening wood?</title>
@@ -102,22 +98,22 @@
         <section id="section_yyg_5xk_z4b">
             <title>Firmly anchored</title>
             <p>If a tree had no roots, it wouldn't be able to survive. Not only would it tip over,
-                the entire supply would be impossible. Depending on the nature of the soil and the
-                type of tree, we can roughly divide the root system into three systems:</p>
+                but the entire supply would also be impossible. Depending on the nature of the soil
+                and the type of tree, we can roughly divide the root system into three systems:</p>
             <ul id="ul_v3r_2yk_z4b">
                 <li>Shallow roots - after the main root has died off, the <term
                         keyref="G09_crown_roots"/> attach their vertical side shoots to the base of
-                    the shoot; the result is a flat but large root plate</li>
+                    the shoot; the result is a flat but large root plate.</li>
                 <li>Heart Roots - with the rhizome as the base, there are many main vertical <term
                         keyref="G09_crown_roots"/>; there are numerous root branches that radiate
-                    vertically or diagonally from it</li>
+                    vertically or diagonally from it.</li>
                 <li>Taproots - here the roots run very deep into the ground like a pole as a direct
-                    extension of the trunk</li>
+                    extension of the trunk.</li>
             </ul>
-            <p><image href="../Images/look_into_the_forest.jpg" scale="50" id="image_ebr_qyk_z4b">
-                    <alt>Look into the forest</alt>
+            <p><image placement="inline" href="../Images/look_into_the_forest.jpg"
+                    id="image_jwd_pqy_qpb">
+                    <alt>a look into the forest</alt>
                 </image></p>
-            <p>Look into the forest</p>
             <p>But no matter what type of root, each one enters into a symbiosis with mushrooms to
                 bring the water on its way up. Just like us humans, the trees are hardly able to
                 survive on their own and detached from the creatures around them. The health of the
