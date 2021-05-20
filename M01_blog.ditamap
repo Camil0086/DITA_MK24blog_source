@@ -15,6 +15,49 @@
             <prodname>Blog</prodname>
         </prodinfo>
     </topicmeta>
+    <keydef keys="rangeA">
+        <topicmeta>
+            <keywords>
+                <keyword>OXFORD</keyword>
+            </keywords>
+        </topicmeta>
+    </keydef>
+    <keydef keys="rangeB">
+        <topicmeta>
+            <keywords>
+                <keyword>SHAMAN</keyword>
+            </keywords>
+        </topicmeta>
+    </keydef>
+    <keydef keys="rangeC">
+        <topicmeta>
+            <keywords>
+                <keyword>SPIRIT</keyword>
+            </keywords>
+        </topicmeta>
+    </keydef>
+    <keydef keys="rangeD">
+        <topicmeta>
+            <keywords>
+                <keyword>FABLE</keyword>
+            </keywords>
+        </topicmeta>
+    </keydef>
+    <keydef keys="rangeE">
+        <topicmeta>
+            <keywords>
+                <keyword>INDUSTRIAL</keyword>
+            </keywords>
+        </topicmeta>
+    </keydef>
+    <keydef keys="rangeF">
+        <topicmeta>
+            <keywords>
+                <keyword>SIXTIES</keyword>
+            </keywords>
+        </topicmeta>
+    </keydef>
+    
     <topicref href="Topics/C01_our_friend_the_tree.dita"/>
     <topicref href="Topics/C02_solid_wood.dita"/>
     <topicref href="Topics/C03_on_trips_to_india.dita"/>

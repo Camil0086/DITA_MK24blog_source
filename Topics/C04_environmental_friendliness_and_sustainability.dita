@@ -1,28 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="C04_environmental_friendliness_and_sustainability">
-    <title>Solid wood furniture stand for environmental friendliness and sustainability</title>
-    <shortdesc>Did you know that furniture made of solid wood stand for environmental friendliness?
+    <title>Solid wood furniture stands for environmental friendliness and sustainability</title>
+    <shortdesc>Did you know that furniture made of solid wood stands for environmental friendliness?
         Learn what are the advantages of solid wood when we speak about ecological balance. One may
-        say it is just an indirect measures. We say, check our ranges made of recycled wood. </shortdesc>
+        say it's just an indirect measure. We say, check our ranges made of recycled
+        wood.</shortdesc>
     <conbody>
-        <p><image href="../Images/environmental_protection.jpg" scale="50" id="image_mvs_jnm_1pb">
-                <alt>Environmelntal protection</alt>
+        <p><image placement="inline" href="../Images/environmental_protection.jpg"
+                id="image_ivq_5x2_rpb">
+                <alt>tree protected by a broken glass bulb</alt>
             </image></p>
         <p>If you want to buy new furniture and at the same time want to do something good for the
             environment, you should rely on solid wood. This results not only in advantages for
             nature but also for the individual.</p>
         <p><b>Solid wood furniture removes carbon dioxide from the atmosphere.</b></p>
-        <p>Not only that solid wood furniture looks noble, is of high quality and has a long
+        <p>Not only that solid wood furniture looks noble, is of high quality, and has a long
             lifespan, it also helps the ecosystem to bind the harmful greenhouse gas CO<sup>2</sup>
-            in its own wood for a long time and thus manage to counteract climate change.</p>
+            in its wood for a long time and thus manage to counteract climate change.</p>
         <p>But what exactly does it mean?</p>
-        <p>Of course, there is a somewhat difficult mechanism behind this, but also not completely
+        <p>Of course, there's a somewhat difficult mechanism behind this, but also not completely
             unknown, as we will now explain to you in detail:</p>
-        <p><image href="../Images/smog.jpg" id="image_htt_h4m_1pb">
-                <alt>Smog</alt>
+        <p><image placement="inline" href="../Images/smog.jpg" id="image_a1h_yx2_rpb">
+                <alt>smog</alt>
             </image></p>
-        <p>CO2 smog as the main cause of climate change.</p>
+        <p><i>CO<sup>2</sup> smog as the main cause of climate change.</i></p>
         <section id="section_j5s_l4m_1pb">
             <title>Keyword photosynthesis:</title>
             <p>One or the other has probably heard of this term in biology class. But how was that
@@ -37,13 +39,12 @@
                 products.</p>
             <p>And now comes the crucial thing that made us take up the topic in our blog. The trees
                 / forests bind the carbon dioxide from the air, which has been converted by
-                photosynthesis, into their own wood, and that permanently! This in turn has a
-                positive effect on the environment and can also be decisive for the ecological
-                balance.</p>
-            <p><image href="../Images/photosynthesis.jpg" id="image_ld5_dqm_1pb">
-                    <alt>Green meadow</alt>
+                photosynthesis, into their wood, and that permanently! This in turn has a positive
+                effect on the environment and can also be decisive for the ecological balance.</p>
+            <p><image placement="inline" href="../Images/photosynthesis.jpg" id="image_byj_cy2_rpb">
+                    <alt>green meadow</alt>
                 </image></p>
-            <p>Sunlight stimulates plants to photosynthesize</p>
+            <p><i>Sunlight stimulates plants to photosynthesize</i></p>
         </section>
         <section id="section_evd_jqm_1pb">
             <title>Why solid wood furniture?</title>
@@ -51,21 +52,23 @@
                 permanently removed from the cycle of nature. What does it mean?</p>
             <p>
                 <ul id="ul_ij2_5qm_1pb">
-                    <li>positive impact on the greenhouse effect</li>
-                    <li>improvement of the atmosphere, thus more air to breathe</li>
-                    <li>counteracting climate change</li>
-                    <li>stabilization of the ecological budget</li>
+                    <li>Positive impact on the greenhouse effect.</li>
+                    <li>Improvement of the atmosphere, thus more air to breathe.</li>
+                    <li>Counteracting climate change.</li>
+                    <li>Stabilization of the ecological budget.</li>
                 </ul>
             </p>
-            <p>So if you want to buy furniture in the near future and want to do something good for
-                the environment, you should rely on solid wood.</p>
+            <p>So if you want to buy furniture soon and want to do something good for the
+                environment, you should rely on solid wood.</p>
         </section>
         <section id="section_obr_2br_qpb">
-            <title>Furniture made of recovered wood. Love at forst sight</title>
-            <p>The furniture is actually made of antique solid wood that has already been used
-                elsewhere. The old wood boards come from shipwrecks, crumbling barns and old houses
-                that were ready to be demolished. Not only planks are used, but also old wooden
-                beams and solid wood elements:</p>
+            <title>Furniture made of recovered wood. Love at first sight</title>
+            <p>The furniture from ranges like <keyword keyref="rangeC"/>, <keyword keyref="rangeD"
+                />, <keyword keyref="rangeE"/>, and <keyword keyref="rangeF"/> is made of antique
+                solid wood that has already been used elsewhere. The old wood boards come from
+                shipwrecks, crumbling barns, and old houses demolished because of their age and
+                condition. Not only planks are used, but also old wooden beams and solid wood
+                elements like:</p>
             <p>
                 <ul id="ul_wp5_fcr_qpb">
                     <li>old doors</li>
@@ -75,11 +78,13 @@
                     <li>construction timber</li>
                 </ul>
             </p>
-            <p><image placement="inline" href="../Images/altholz_bild_23.jpg" id="image_nq1_zcr_qpb"
-                /></p>
+            <p><image placement="inline" href="../Images/reclaimed_wood.jpg" id="image_ajc_my2_rpb">
+                    <alt>pictures showing pieces of old doors and planks as a reclaimed material for
+                        furniture</alt>
+                </image></p>
             <p>As you can see we do our best to reclaim as much wood as possible. If you choose
-                items made in such way you do not only help the environment but also becaome an
-                owner or unique and beautiful items with its own history.</p>
+                items made in such a way you don't only help the environment but also become an
+                owner of unique and beautiful items with their own history.</p>
         </section>
     </conbody>
 </concept>

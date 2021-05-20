@@ -13,6 +13,7 @@
     <keydef keys="G09_crown_roots" href="G09_crown_roots.dita"/>
     <keydef keys="G10_wood_stain" href="G10_wood_stain.dita"/>
     <keydef keys="G11_veneer" href="G11_veneer.dita"/>
+    <keydef keys="G12_grain" href="G12_grain.dita"/>
     <topicref href="R04_glossary.dita">
         <topicref keyref="G01_hard_wax_plane"/>
         <topicref keyref="G02_tannins"/>
@@ -25,5 +26,6 @@
         <topicref keyref="G09_crown_roots"/>
         <topicref keyref="G10_wood_stain"/>
         <topicref keyref="G11_veneer"/>
+        <topicref keyref="G12_grain"/>
     </topicref>
 </map>

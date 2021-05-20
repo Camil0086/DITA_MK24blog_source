@@ -7,7 +7,7 @@
                 <serializableOrderedMap>
                     <entry>
                         <String>keys.context</String>
-                        <String>${pdu}/Topics/Glossary/M05_glossary.ditamap</String>
+                        <String>${pdu}/M01_blog.ditamap</String>
                     </entry>
                     <entry>
                         <String>scenario.associations</String>

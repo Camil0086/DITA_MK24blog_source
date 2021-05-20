@@ -2,26 +2,28 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="T03B_removing_scratches">
     <title>Removing scratches</title>
-    <shortdesc>Dents, scratches or wholes? Here you will learn how to hide or even ged rid of small
-        flaws on your item. Small is an understatement? Do not worry, with us you can even
-        refurbished your furniture in case of depper and bigger damages. </shortdesc>
+    <shortdesc>Dents, scratches, or wholes? Here you'll learn how to hide or even get rid of small
+        flaws on your item. Small is an understatement? Do not worry, with us you can even refurbish
+        your furniture in case of deeper and bigger damages. </shortdesc>
     <taskbody>
         <context>One time you didn't pay attention and it happened: the children mistook the living
             room for a bobby car racetrack - the pretty colonial-style chest of drawers now "adorns"
             a deep dent on the frame and an ugly scratch on the drawer front. Fortunately, massive
             furniture has another advantage in addition to its great appearance and durability: you
-            can easily repair or hide minor damage. How it works? We asked our master carpenter
-            Hubert for you again. <p>And here you will find his ultimate tips on how to best tackle
-                pressure and impact points, scratches and holes in the wood.</p><p><image
-                    placement="inline" href="../Images/blog_foto.jpg" id="image_gsl_jhy_bpb"
-                    audience="expert"/></p><p>In general, raw wood always requires fewer work steps
-                than treated wood, because basically the following applies:if you chopp wood, chips
-                flew and where you sand away paint and varnish, you've to reproduce both as true to
-                color as possible.</p></context>
+            can easily repair or hide minor damage. How does it work? We asked our master carpenter
+            Stefan for you again. <p>And here you'll find his ultimate tips on how to best tackle
+                pressure and impact points, scratches, and holes in the wood.</p><p><image
+                    placement="inline" href="../Images/first_aid.jpg" id="image_zsh_5qg_rpb"
+                    audience="expert">
+                    <alt>picture of a chest with a huge adhesive bandage</alt>
+                </image></p><p>In general, raw wood always requires fewer work steps than treated
+                wood, because the following applies: if you chop wood, chips flew and where you sand
+                away paint and varnish, you've to reproduce both as true to color as
+            possible.</p></context>
         <steps>
             <step>
-                <cmd>To best handle <b>dents</b> use water and warmth. First three steps applie to
-                        <b>untreated</b> wood since in particular it reacts very well to this gentle
+                <cmd>To best handle <b>dents</b>, use water and warmth. The first three steps apply
+                    to <b>untreated</b> wood since in particular, it reacts very well to this gentle
                     method. Moisten the dented area well.</cmd>
             </step>
             <step>
@@ -41,48 +43,51 @@
                 <cmd>In case of minor <b>scratches</b>, you can achieve visually a lot with little
                     effort. A retouching pen in the right color is often sufficient.</cmd>
                 <info>
-                    <p><image placement="inline"
-                            href="../Images/behandlung_von_rissen_im-holz_01.jpg"
-                            id="image_p3h_yk2_mpb" audience="expert"/></p>
+                    <p><image placement="inline" href="../Images/scratch_treatment_1.jpg"
+                            id="image_jgx_crg_rpb" audience="expert">
+                            <alt>scratches on the surface of a piece of furniture</alt>
+                        </image></p>
                     <p>
-                        <note id="note_bvk_dtj_bpb" type="tip">As an alternative you can use a
-                            water-based <term keyref="G10_wood_stain"/>. </note>
+                        <note id="note_bvk_dtj_bpb" type="tip">As an alternative, you can use a
+                            water-based <term keyref="G10_wood_stain"/>.</note>
                     </p>
                 </info>
             </step>
             <step>
                 <cmd>If you choose a <term keyref="G10_wood_stain"/>, dilute it to the desired shade
                     and brush the appropriate area.</cmd>
-                <info><image placement="inline"
-                        href="../Images/behandlung_von_rissen_im-holz_02-150x150.jpg"
-                        id="image_rjz_yk2_mpb" audience="expert"/></info>
+                <info><image placement="inline" href="../Images/scratch_treatment_2.jpg"
+                        id="image_ptq_hrg_rpb" audience="expert">
+                        <alt>rubbing wood stain into the scratches</alt>
+                    </image></info>
             </step>
             <step>
                 <cmd>If the color matches the quirk, it is no longer noticeable.</cmd>
-                <info><image placement="inline"
-                        href="../Images/behandlung_von_rissen_im-holz_03.jpg" id="image_zgy_j2b_qpb"
-                        audience="expert"/></info>
+                <info><image placement="inline" href="../Images/scratch_treatment_3.jpg"
+                        id="image_hrz_krg_rpb" audience="expert">
+                        <alt>final effect of scratches treatment</alt>
+                    </image></info>
                 <info>
                     <p>
-                        <note id="note_vwl_x2x_lpb" type="tip">If necessary, please use a nitro
-                            spray paint to restore the scratched paint layer by smoothing the edges
-                            of colour.</note>
+                        <note id="note_vwl_x2x_lpb" type="tip">If necessary, please use nitro spray
+                            paint to restore the scratched paint layer by smoothing the edges of
+                            color.</note>
                     </p>
                 </info>
             </step>
-            <stepsection>In case of deeper scratches, as with the dents, you have to sand them away
-                and reconstruct the previous surface.</stepsection>
+            <stepsection>In case of deeper scratches and dents, you have to sand them away and
+                reconstruct the previous surface.</stepsection>
             <step>
-                <cmd>Method of <b>filling holes</b> depends on their depth. In case of minor damage
-                    use hard wax, which despite its name doesn't become as firm as the wood paste.
-                    As a first step use a sharp object like scissors or any other available and poke
-                    out all remainings.</cmd>
+                <cmd>The method of <b>filling holes</b> depends on their depth. In case of minor
+                    damage use hard wax, which despite its name doesn't become as firm as the wood
+                    paste. As a first step use a sharp object like scissors or any other available
+                    and poke out all remainings.</cmd>
             </step>
             <step>
                 <cmd>Clean the surface.</cmd>
                 <info>
                     <note id="note_csn_qjx_lpb" type="tip">You'll achieve the best result by
-                        cleaning the surface with a soft soap and then wiping it out with extraction
+                        cleaning the surface with soft soap and then wiping it out with extraction
                         naphtha. </note>
                 </info>
             </step>
@@ -95,14 +100,14 @@
                 </info>
             </step>
             <step>
-                <cmd>After drying use sanding block and sand the surface smoothly.</cmd>
+                <cmd>After drying use a sanding block and sand the surface smoothly.</cmd>
             </step>
             <step>
                 <cmd>Then paint it again and sealed it with a layer of varnish.</cmd>
                 <info>
                     <note id="note_wrn_qnx_lpb" type="tip">You can use spray paint and varnish for
                         both steps. </note>
-                    <note id="note_znt_ynx_lpb" type="warning">Be carefull when handling wood putty,
+                    <note id="note_znt_ynx_lpb" type="warning">Be careful when handling wood putty,
                         as it contains solvents and can dissolve or react with existing
                         colors.</note>
                     <p>For large cracks and holes use wood paste because it becomes very firm when
@@ -113,9 +118,9 @@
                 </info>
             </step>
         </steps>
-        <result id="result_w51_ftj_bpb">With these tips you now know that the chest of drawers in
-            case of all-out attack of children is by no means lost.<p>Good luck with DIY.</p><p/><p
-                audience="expert">Document downloads:</p><p audience="expert"><xref
+        <result id="result_w51_ftj_bpb">With these tips, you now know that the chest of drawers in
+            case of an all-out attack of children is by no means lost.<p>Good luck with
+                DIY.</p><p/><p audience="expert">Document downloads:</p><p audience="expert"><xref
                     href="../Objects/M03_removing_scratches_guide.pdf" format="pdf">Removing
                     scratches guide [PDF]</xref></p></result>
     </taskbody>

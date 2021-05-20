@@ -2,36 +2,46 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="T04B_beam_oak_vs_wild_oak">
     <title>Beam oak vs. wild oak</title>
-    <shortdesc>Here you will learn about differences between beam oak and wild oak. </shortdesc>
+    <shortdesc>Here you'll learn about the differences between beam oak and wild oak. </shortdesc>
     <conbody>
-        <p><image placement="inline" href="../Images/Tango.jpg" id="image_ald_tcr_bpb"/></p>
-        <p>Beam oak or wild oak is not understood to mean a type of tree in the traditional sense,
+        <p><image placement="inline" href="../Images/beam_top.jpg" id="image_rvx_l3g_rpb">
+                <alt>a beam oak dining table top</alt>
+            </image></p>
+        <p>Beam oak or wild oak isn't understood to mean a type of tree in the traditional sense,
             nor is it a special type of wood. Rather, the term relates to a special sorting of the
             trees, which have to meet certain criteria during the selection and also during
             production. You can find out what these are here.</p>
         <section id="section_ozr_vcr_bpb">
             <title>Wild oak</title>
-            <p>Wild oaks are oaks that have an exceptionally lively and expressive grain. Trees in
-                shady locations, preferably on the edge of the forest, have such characteristics. In
-                addition, only trees with an above-average number of knotholes are used. In
-                technical jargon, the wild oak is therefore also called knotty oak.</p>
-            <p><image placement="inline" href="../Images/Wildeiche.jpg" id="image_g4x_xcr_bpb"/></p>
-            <note id="note_xyh_f1d_npb">After cutting, wood is divided into different grades. These
-                are timber trade classes that differ in terms of various optical features and
-                    properties.<p>Particularly strikingly grained wooden parts are used in the
-                    manufacture of wild oak furniture. Visible knots as well as darker and lighter
-                    wood sections complete the picture. The use of the expressive wood creates
+            <p>Wild oaks are oaks that have an exceptionally lively and expressive <term
+                    keyref="G12_grain"/>. Trees in shady locations, preferably on the edge of the
+                forest, have such characteristics. In addition, only trees with an above-average
+                number of knotholes are used. In technical jargon, the wild oak is therefore also
+                called knotty oak.</p>
+            <p><image placement="inline" href="../Images/wild_oak.jpg" id="image_j3w_p3g_rpb">
+                    <alt>the wooden surface of the wild oak</alt>
+                </image></p>
+            <note id="note_xyh_f1d_npb">After cutting, foresters divide the wood into different
+                grades. These are timber trade classes that differ in terms of various optical
+                features and properties.<p>Producers choose particularly extremely grained wooden
+                    parts to manufacture wild oak furniture. Visible knots as well as darker and
+                    lighter wood sections complete the picture. The use of expressive wood creates
                     furniture that with its natural charisma attracts everyone's
                 attention.</p></note>
         </section>
-        <section id="section_uft_ycr_bpb"><title>Beam oak</title><p>Strictly speaking, the beam oak
-                differs little from the actual oak, at least in terms of quality. But there is one
-                special feature that makes the difference. The beam oak has an above-average number
-                of growth cracks and knotholes and, as the name suggests, is composed of individual
-                beams. While the wild oak is fine, noble and expressively grained, the beam oak
-                looks much more rustic.</p><p>However, the wood is not sorted out because of such
-                quality defects, as is normally the case with other furniture, but each individual
-                wood is used for production.</p><image placement="inline"
-                href="../Images/Balkeneiche.jpg" id="image_pz1_bdr_bpb"/></section>
+        <section id="section_uft_ycr_bpb">
+            <title>Beam oak</title>
+            <p>Strictly speaking, the beam oak differs little from the actual oak, at least in terms
+                of quality. But there's one special feature that makes the difference. The beam oak
+                has an above-average number of growth cracks and knotholes and, as the name
+                suggests, beams compose it. While the wild oak is fine, noble, and expressively
+                grained, the beam oak looks much more rustic.</p>
+            <p>However, there's no sorting of the wood because of such quality defects, as is
+                normally the case with other furniture, but each individual wood is used for
+                production.</p>
+            <p><image placement="inline" href="../Images/beam_oak.jpg" id="image_gy4_2jg_rpb">
+                    <alt>the wooden surface of the beam oak</alt>
+                </image></p>
+        </section>
     </conbody>
 </concept>
