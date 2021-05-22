@@ -14,7 +14,7 @@
     <keydef keys="G10_wood_stain" href="G10_wood_stain.dita"/>
     <keydef keys="G11_veneer" href="G11_veneer.dita"/>
     <keydef keys="G12_grain" href="G12_grain.dita"/>
-    <topicref href="R04_glossary.dita">
+    <topicref href="R04_glossary.dita" toc="no">
         <topicref keyref="G01_hard_wax_plane"/>
         <topicref keyref="G02_tannins"/>
         <topicref keyref="G03_mimosa_bark"/>

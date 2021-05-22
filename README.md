@@ -20,3 +20,4 @@ In first three commits I have added updated topics
 * 18.05.2021 - in this update I have made few content changes and topics updates
 * 19.05.2021 - in this update I have added an scg diagram of removing stains procedure and amended topic C03 on the basis of chosen styleguide.
 * 20.05.2021 - in this update I have added keys for ranges' names and amended topics C04, C05A, C05B, T03A, and T03B on the basis of chosen styleguide
+* 22.05.2021 - final update

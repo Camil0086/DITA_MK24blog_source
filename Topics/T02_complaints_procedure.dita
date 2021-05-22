@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="T02_complaints_how_does_it_work">
-    <title>Complaints - how does it work?</title>
+    <title>Complaints procedure</title>
     <shortdesc>What to do if you received damaged item? What options you have when it comes to
         solution of your claim? Here you will learn the entire process of complaint.</shortdesc>
     <taskbody>
-        <context>You have finally received your product from Meble kolonialne24, but unfortunately
-            it is damaged? No problem! Our team will take care of your concerns. In the video and
-            study case below we explain how exactly it works.<p><image placement="inline"
-                    href="../Images/rekla4-1.jpg" id="image_tf2_5gy_bpb"/></p><p><object
+        <context>You have finally received your product from <keyword keyref="company"/>, but
+            unfortunately it is damaged? No problem! Our team will take care of your concerns. In
+            the video and study case below we explain how exactly it works.<p><image
+                    placement="inline" href="../Images/rekla4-1.jpg" id="image_tf2_5gy_bpb"
+                    /></p><p><object
                     data="../Objects/Massivmoebel24%20Versand%20-und%20Reklamationsabwicklung.mp4"
                 /></p><p>
                 <note id="note_kmn_yqw_kpb" type="important">Our team in the warehouse thoroughly
@@ -60,13 +61,13 @@
                 <info>
                     <note id="note_s54_5rc_npb" type="remember">As a last resort Anna can give up of
                         the purchase and send the chest back. However, if restoration or exchanging
-                        the item is possible, Meble kolonialne 24 are not oblidged to accept such
-                        decision as a first option.</note>
+                        the item is possible, <keyword keyref="company"/> are not oblidged to accept
+                        such decision as a first option.</note>
                 </info>
             </step>
             <step>
-                <cmd>Anna has decided to exchange the item for new one. Meble kolonialne 24 has
-                    organize the pick up and delivery of the new chest. </cmd>
+                <cmd>Anna has decided to exchange the item for new one. <keyword keyref="company"/>
+                    has organize the pick up and delivery of the new chest. </cmd>
             </step>
         </steps>
         <result id="result_wlx_tlj_bpb">Anna has received a new chest and this time nothing wrong

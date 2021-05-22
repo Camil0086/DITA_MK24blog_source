@@ -7,115 +7,198 @@
         symbolism of trees.</shortdesc>
     <refbody>
         <example>
-            <p>Just as gemstones are said to have certain properties and effects, trees and plants
-                are also associated with certain characteristics and meanings. We took a look around
-                and listed some of our most famous local trees with their supposed
-                characteristics.</p>
-            <p>We would of course be interested in whether you agree with said properties or whether
-                you might perceive the plants in a completely different way. We hope you enjoy
+            <p>We associate to gemstones certain properties and effects. Trees and plants also have
+                certain characteristics and meanings. We took a look around and listed some of our
+                most famous local trees with their supposed characteristics.</p>
+            <p>We wonder if you perceive the plants in a completely different way. We hope you enjoy
                 reading and discovering.</p>
         </example>
-        <table id="table_jpj_zfk_npb" frame="all">
+        <table id="table_jpj_zfk_npb">
             <title/>
-            <tgroup cols="3">
+            <tgroup cols="3" align="left">
                 <colspec colname="c1" colnum="1" colwidth="1*"/>
                 <colspec colname="c2" colnum="2" colwidth="1*"/>
                 <colspec colname="c3" colnum="3" colwidth="1*"/>
                 <thead>
                     <row>
-                        <entry>Tree</entry>
-                        <entry>Picture</entry>
-                        <entry>symbolism</entry>
+                        <entry align="center">Tree</entry>
+                        <entry align="center">Picture</entry>
+                        <entry align="center">symbolism</entry>
                     </row>
                 </thead>
                 <tbody>
                     <row>
-                        <entry>Walnut</entry>
-                        <entry><image placement="inline" href="../Images/walnut.jpg"
-                                id="image_awx_fhk_npb"/></entry>
-                        <entry>Hard nut, hard wood; serves as a demarcation and is often planted on
-                            the edge of the property; your own demarcation from the outside
-                            strengthens your own path.</entry>
+                        <entry align="center">Walnut</entry>
+                        <entry align="center"><image placement="inline" href="../Images/walnut.jpg"
+                                id="image_kzn_hkt_rpb">
+                                <alt>walnut</alt>
+                            </image></entry>
+                        <entry>
+                            <ul id="ul_jpz_sht_rpb">
+                                <li>hard nut, hard wood</li>
+                                <li>serves as a demarcation so people often planted it on the edge
+                                    of the property</li>
+                                <li>your demarcation from the outside strengthens your path</li>
+                            </ul>
+                        </entry>
                     </row>
                     <row>
-                        <entry>Chestnut</entry>
-                        <entry><image placement="inline" href="../Images/chestnut.jpg"
-                                id="image_oqx_13k_npb"/></entry>
-                        <entry>Spreads cheerfulness, joy and sociability, and is often found in beer
-                            gardens; it has deep roots and favors stressed people to
-                            concentrate.</entry>
+                        <entry align="center">Chestnut</entry>
+                        <entry align="center"><image placement="inline"
+                                href="../Images/chestnut.jpg" id="image_dv3_jkt_rpb">
+                                <alt>chestnut and leaves</alt>
+                            </image></entry>
+                        <entry>
+                            <ul id="ul_ohg_wht_rpb">
+                                <li>spreads cheerfulness, joy, and sociability</li>
+                                <li>often grows in beer gardens</li>
+                                <li>it has deep roots and favors stressed people to concentrate</li>
+                            </ul>
+                        </entry>
                     </row>
                     <row>
-                        <entry>Pine</entry>
-                        <entry><image placement="inline" href="../Images/pine.jpg"
-                                id="image_n4k_qxm_4pb"/></entry>
-                        <entry>Symbolizes endurance and longevity; the resin and needles are a
-                            well-known remedy; supports the work on self-esteem</entry>
+                        <entry align="center">Pine</entry>
+                        <entry align="center"><image placement="inline" href="../Images/pine.jpg"
+                                id="image_wbk_skt_rpb">
+                                <alt>pinecones and needles</alt>
+                            </image></entry>
+                        <entry>
+                            <ul id="ul_bnj_m3t_rpb">
+                                <li>symbolizes endurance and longevity</li>
+                                <li>the resin and needles are a well-known remedy</li>
+                                <li>supports the work on self-esteem</li>
+                            </ul>
+                        </entry>
                     </row>
                     <row>
-                        <entry>Elm</entry>
-                        <entry><image placement="inline" href="../Images/elm.jpg"
-                                id="image_gps_lym_4pb"/></entry>
-                        <entry>brings more movement and communication into life; enhances creativity
-                            and dynamism as a solution to stagnation; mediator</entry>
+                        <entry align="center">Elm</entry>
+                        <entry align="center"><image placement="inline" href="../Images/elm.jpg"
+                                id="image_yfc_5kt_rpb">
+                                <alt>a branch of an elm tree</alt>
+                            </image></entry>
+                        <entry>
+                            <ul id="ul_k4t_p3t_rpb">
+                                <li>brings more movement and communication into life</li>
+                                <li>enhances creativity and dynamism as a solution to
+                                    stagnation</li>
+                                <li>mediator</li>
+                            </ul>
+                        </entry>
                     </row>
                     <row>
-                        <entry>Linden</entry>
-                        <entry><image placement="inline" href="../Images/linden.jpg"
-                                id="image_mkj_3cn_4pb"/></entry>
-                        <entry>radiates soothing harmony; the linden tree soothes and heals wounds;
-                            it reconciles and favors growth and change; Linden trees can often be
-                            found in the center of the village or near old houses</entry>
+                        <entry align="center">Linden</entry>
+                        <entry align="center"><image placement="inline" href="../Images/linden.jpg"
+                                id="image_mkj_3cn_4pb">
+                                <alt>a branch of a linden tree</alt>
+                            </image></entry>
+                        <entry>
+                            <ul id="ul_ucy_53t_rpb">
+                                <li>radiates soothing harmony</li>
+                                <li>the linden tree soothes and heals wounds</li>
+                                <li>it reconciles and favors growth and change</li>
+                                <li>linden trees often grew in the center of the village or near old
+                                    houses</li>
+                            </ul>
+                        </entry>
                     </row>
                     <row>
-                        <entry>Ash</entry>
-                        <entry><image placement="inline" href="../Images/ash.jpg"
-                                id="image_ulc_qcn_4pb"/></entry>
-                        <entry>in Norse mythology the world tree; stands for change, transformation;
-                            Creator of own life; Development of the soul potential</entry>
+                        <entry align="center">Ash</entry>
+                        <entry align="center"><image placement="inline" href="../Images/ash.jpg"
+                                id="image_ulc_qcn_4pb">
+                                <alt>a branch of an ash tree</alt>
+                            </image></entry>
+                        <entry>
+                            <ul id="ul_zzf_1jt_rpb">
+                                <li>in Norse mythology the world tree</li>
+                                <li>stands for change and transformation</li>
+                                <li>helps to develop the potential of the soul</li>
+                            </ul>
+                        </entry>
                     </row>
                     <row>
-                        <entry>Larch</entry>
-                        <entry><image placement="inline" href="../Images/larch.jpg"
-                                id="image_ulv_1dn_4pb"/></entry>
-                        <entry>delicate and robust, a survivor; Message of basic trust in one's own
-                            goals; go his way without stubbornness</entry>
+                        <entry align="center">Larch</entry>
+                        <entry align="center"><image placement="inline" href="../Images/larch.jpg"
+                                id="image_ulv_1dn_4pb">
+                                <alt>cones and needles of a larch tree</alt>
+                            </image></entry>
+                        <entry>
+                            <ul id="ul_c33_mjt_rpb">
+                                <li>delicate and robust, a survivor</li>
+                                <li>message of basic trust in one's own goals</li>
+                                <li>go his way without stubbornness</li>
+                            </ul>
+                        </entry>
                     </row>
                     <row>
-                        <entry>Birch</entry>
-                        <entry><image placement="inline" href="../Images/birch.jpg"
-                                id="image_tkf_gdn_4pb"/></entry>
-                        <entry>symbolizes the beauty inside and outside and the trust in our
-                            emotional life; act spontaneously from the gut</entry>
+                        <entry align="center">Birch</entry>
+                        <entry align="center"><image placement="inline" href="../Images/birch.jpg"
+                                id="image_tkf_gdn_4pb">
+                                <alt>a branch of a birch tree</alt>
+                            </image></entry>
+                        <entry>
+                            <ul id="ul_eld_pjt_rpb">
+                                <li>symbolizes the beauty inside and outside and the trust in our
+                                    emotional life</li>
+                                <li>acts spontaneously from the gut</li>
+                            </ul>
+                        </entry>
                     </row>
                     <row>
-                        <entry>Maple</entry>
-                        <entry><image placement="inline" href="../Images/maple.jpg"
-                                id="image_asd_ndn_4pb"/></entry>
-                        <entry>freed from fear; Balance and inner peace; Bridge to higher spheres;
-                            Overcoming vulnerability</entry>
+                        <entry align="center">Maple</entry>
+                        <entry align="center"><image placement="inline" href="../Images/maple.jpg"
+                                id="image_asd_ndn_4pb">
+                                <alt>a branch of a maple tree</alt>
+                            </image></entry>
+                        <entry>
+                            <ul id="ul_els_gxw_rpb">
+                                <li>freed from fear</li>
+                                <li>balance and inner peace</li>
+                                <li>bridge to higher spheres</li>
+                                <li>overcoming vulnerability</li>
+                            </ul>
+                        </entry>
                     </row>
                     <row>
-                        <entry>Beech</entry>
-                        <entry><image placement="inline" href="../Images/beech.jpg"
-                                id="image_ojh_tdn_4pb"/></entry>
-                        <entry>stands for eternity; good for mind people who have lost sight of
-                            their goal; relieves mental tension</entry>
+                        <entry align="center">Beech</entry>
+                        <entry align="center"><image placement="inline" href="../Images/beech.jpg"
+                                id="image_ojh_tdn_4pb">
+                                <alt>a branch of a beech tree</alt>
+                            </image></entry>
+                        <entry>
+                            <ul id="ul_uxx_sjt_rpb">
+                                <li>stands for eternity</li>
+                                <li>good for mind of people who have lost sight of their goal</li>
+                                <li>relieves mental tension</li>
+                            </ul>
+                        </entry>
                     </row>
                     <row>
-                        <entry>Oak</entry>
-                        <entry><image placement="inline" href="../Images/oak.jpg"
-                                id="image_uyp_xdn_4pb"/></entry>
-                        <entry>strengthens free will and own decisions, as well as intuition and the
-                            connection to the soul</entry>
+                        <entry align="center">Oak</entry>
+                        <entry align="center"><image placement="inline" href="../Images/oak.jpg"
+                                id="image_uyp_xdn_4pb">
+                                <alt>a branch of an oak tree</alt>
+                            </image></entry>
+                        <entry>
+                            <ul id="ul_zbq_vjt_rpb">
+                                <li>strengthens free will and own decisions</li>
+                                <li>intensify intuition and the connection to the soul</li>
+                            </ul>
+                        </entry>
                     </row>
                     <row>
-                        <entry>Fir</entry>
-                        <entry><image placement="inline" href="../Images/fir.jpg"
-                                id="image_x2l_d2n_4pb"/></entry>
-                        <entry>shows love in the higher sense; supports people with a hard shell and
-                            a soft core; promotes emotional maturity and chases off evil forces so
-                            ususally served as a Christmas tree</entry>
+                        <entry align="center">Fir</entry>
+                        <entry align="center"><image placement="inline" href="../Images/fir.jpg"
+                                id="image_x2l_d2n_4pb">
+                                <alt>a springs of a fir tree</alt>
+                            </image></entry>
+                        <entry>
+                            <ul id="ul_kq1_bkt_rpb">
+                                <li>shows love in the higher sense</li>
+                                <li>supports people with a hard shell and a soft core</li>
+                                <li>promotes emotional maturity and chases off evil forces so
+                                    usually served as a Christmas tree</li>
+                            </ul>
+                        </entry>
                     </row>
                 </tbody>
             </tgroup>

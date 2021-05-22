@@ -2,5 +2,12 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
     <title>Removing stains guide</title>
-    <topicref href="Topics/T03C_removing_stains.dita"/>
+    <keydef keys="company">
+        <topicmeta>
+            <keywords>
+                <keyword>Meble kolonialne 24</keyword>
+            </keywords>
+        </topicmeta>
+    </keydef>
+    <topicref href="Topics/T03C_remove_stains.dita"/>
 </map>

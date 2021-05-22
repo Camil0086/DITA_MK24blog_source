@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
 <reference id="R01_known_types_of_wood_at_a_glance">
-    <title>Known types of wood at a glance</title>
-    <shortdesc>This reference describes shortly types of wood of which our furniture are made of. </shortdesc>
+    <title>Types of wood in short</title>
+    <shortdesc>This reference describes shortly types of wood which are materials to our furniture
+        production.</shortdesc>
     <refbody>
         <table id="table_f2k_hsq_bpb">
             <title>Types of wood</title>
@@ -12,12 +13,12 @@
                 <colspec colname="c3" colnum="3" colwidth="149.25pt"/>
                 <colspec colname="c4" colnum="4" colwidth="105pt"/>
                 <colspec colname="c5" colnum="5" colwidth="105pt"/>
-                <colspec colname="c6" colnum="6" colwidth="90pt"/>
+                <colspec colname="c6" colnum="6" colwidth="88.5pt"/>
                 <colspec colname="c7" colnum="7" colwidth="93.75pt"/>
                 <thead>
                     <row>
                         <entry>Wood</entry>
-                        <entry>Picture</entry>
+                        <entry align="center">Picture</entry>
                         <entry>Properties</entry>
                         <entry>Particularities</entry>
                         <entry>Use</entry>
@@ -31,7 +32,7 @@
                         <entry><image placement="inline"
                                 href="../Images/Akazie-natur-lackiert-FREEFORM-3_23072-300x212.jpg"
                                 id="image_jxw_zsq_bpb"/></entry>
-                        <entry>high strength, hardness and resistance</entry>
+                        <entry>high strength, hardness, and resistance</entry>
                         <entry>Insensitive to moisture and fungi.</entry>
                         <entry>Suitable for indoor and outdoor use.</entry>
                         <entry>varied smooth grain</entry>
@@ -43,7 +44,7 @@
                                 href="../Images/Altholz-mehrfarbig-lackiert-NATURE-OF-SPIRIT_15431-768x543.jpg"
                                 id="image_v2q_1tq_bpb"/></entry>
                         <entry>Durable and wear-resistant.</entry>
-                        <entry>mixture of different types of wood</entry>
+                        <entry>a mixture of different types of wood</entry>
                         <entry>Particularly suitable for outdoors.</entry>
                         <entry>Nice coloring with signs of wear from the weather.</entry>
                         <entry>non-applicable</entry>
@@ -53,8 +54,8 @@
                         <entry><image placement="inline"
                                 href="../Images/48-900-300-9000-_1-768x543.jpg"
                                 id="image_wfn_ltq_bpb"/></entry>
-                        <entry>hard, heavy and durable</entry>
-                        <entry>A large amount of wood used in a variety of ways.</entry>
+                        <entry>hard, heavy, and durable</entry>
+                        <entry>widely spread wood used in a variety of ways.</entry>
                         <entry>Suitable for indoor and outdoor use.</entry>
                         <entry>striking natural grain</entry>
                         <entry>America, Europe, Asia</entry>
@@ -63,7 +64,7 @@
                         <entry>Mango</entry>
                         <entry><image placement="inline" href="../Images/mangoholz-1.jpg"
                                 id="image_ddd_mtq_bpb"/></entry>
-                        <entry>light, hard and robust</entry>
+                        <entry>light, hard, and robust</entry>
                         <entry>concise grain</entry>
                         <entry>Unsuitable for outdoor use.</entry>
                         <entry>dotted, slightly cracked grain</entry>

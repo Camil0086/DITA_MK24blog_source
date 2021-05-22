@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="first_aid_tips_and_tricks_for_solid_furniture">
-    <title>First aid tips and tricks for solid furniture</title>
+    <title>First aid tips and tricks</title>
     <taskbody>
         <context>
             <p>In this section you will learn how to handle a few most common afflictions of solid
@@ -9,7 +9,7 @@
                 distraction like wine stains od scratches. </p>
             <p><image placement="inline" href="../Images/hubert.jpg" id="image_ijw_frl_lpb"/></p>
             <p>Master carpenter Stefan is a passionate wood connoisseur and, so to speak, the house
-                carpenter of Meble kolonialne 24. If anyone knows how to handle solid wood
+                carpenter of <keyword keyref="company"/>. If anyone knows how to handle solid wood
                 furniture, it is Stefan.</p>
         </context>
     </taskbody>

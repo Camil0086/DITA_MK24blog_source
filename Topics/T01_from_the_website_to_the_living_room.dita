@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="T01_from_the_website_to_my_home">
+    <title>From the website to the living room</title>
+    <shortdesc>How does your favorite piece of furniture get to your home? Get familiar with the
+        particular steps of the journey.</shortdesc>
+    <taskbody>
+        <context>The days of the Internet have given us many new opportunities: for example, we can
+            chat with friends around the world without further ado, get information quickly on all
+            possible topics and even get an educational qualification online. It's of course
+            particularly interesting to shop comfortably and safely from home. But together with the
+            development of information superhighway, increase the impatience in view of seemingly
+            long delivery times. If the reasons for this are known, the waiting time will certainly
+            be easier, which is why we would like to give you a look behind the scenes of <keyword
+                keyref="company"/> today and show you the sometimes adventurous ways your furniture
+            comes to you.<p><image placement="inline"
+                    href="../Images/transport_infographic_cutout.jpg" id="image_if5_gtw_rpb">
+                    <alt>a map with the route of furniture from India to Poland</alt>
+                </image></p></context>
+        <steps>
+            <stepsection>From raw material to solid furniture</stepsection>
+            <step>
+                <cmd>It all begins in distant India, where a small sprout struggles through the
+                    earth on a plantation and grows into a majestic tree, the natural material of
+                    our solid furniture. Our woods come from plantations e.g. in Rajasthan and the
+                    neighboring states of Uttar Pradesh, Madhya Pradesh, Punjab, Haryana, and the
+                    Gujra by the sea.</cmd>
+                <info>
+                    <p><image placement="inline" href="../Images/sheesham_logs.jpg"
+                            id="image_bmr_hvt_rpb">
+                            <alt>Sheesham trunks in their raw state</alt>
+                        </image></p>
+                </info>
+            </step>
+            <step>
+                <cmd>Lumbermen load the raw logs onto trucks and then drivers sometimes transport
+                    them hundreds of kilometers over dusty roads and mountainous terrain to the
+                    sawmill near the respective production site, e.g. to Jodhpur, where craftsmen
+                    make our colonial style program <keyword keyref="rangeA"/>.</cmd>
+                <info>
+                    <p><image placement="inline" href="../Images/image005-1024x768.jpg"
+                            id="image_wch_jgy_bpb"/></p>
+                </info>
+            </step>
+            <step>
+                <cmd>Here, sawmill workers cut the raw wood into boards of various thicknesses and
+                    lengths. Dried planks are ready to go to production.</cmd>
+                <info>
+                    <p><image placement="inline"
+                            href="../Images/04-20130613_171933-Large-1024x768.jpg"
+                            id="image_tsy_kgy_bpb"/></p>
+                </info>
+            </step>
+            <step>
+                <cmd>We're now in a workshop in Jodhpur. Orders come in all the time. Different
+                    furniture series and new designs emerge, there are reorders for series that are
+                    already in progress. Vendor provides coordination of everything in the process
+                    and combination with one another. The paintwork is still missing here, the
+                    ordered tables are waiting for their packaging.</cmd>
+                <info>
+                    <p><image placement="inline"
+                            href="../Images/05-20130613_181820-Large-1024x768.jpg"
+                            id="image_vcl_s3y_bpb"/></p>
+                </info>
+            </step>
+            <step>
+                <cmd>Workers load everything into the container, mostly without pallets, to fully
+                    utilize the space down to the last corner.</cmd>
+                <info>
+                    <p><image placement="inline" href="../Images/06-LKW_mm24-768x1024.jpg"
+                            id="image_c45_ngy_bpb"/></p>
+                </info>
+            </step>
+            <step>
+                <cmd>When everything is in place and nothing wobbles, our agent can seal the doors,
+                    and now the journey really begins.</cmd>
+                <info>
+                    <p><image placement="inline" href="../Images/07-1024x766.jpg"
+                            id="image_wyr_4gy_bpb"/></p>
+                </info>
+            </step>
+            <step>
+                <cmd>In a well-rehearsed rhythm, the furniture loads leave the place of manufacture
+                    and find themselves in the port of Mundra, which is over 600 km away. Now the
+                    container goes on the ship and directly to the port of Hamburg. From there,
+                    after few days his next stop is the harbor in Gdynia. Before our forwarding
+                    company will receive the containers here, customs first have the pleasure. After
+                    the necessary paperwork, the truck takes the load to our warehouse in the town
+                    of Bochnia near Krakow, Lesser Poland.</cmd>
+                <info>
+                    <p><image placement="inline" href="../Images/08-Foto-4.jpg"
+                            id="image_iw4_pgy_bpb"/></p>
+                </info>
+            </step>
+            <step>
+                <cmd>With the last breath, your favorite piece is now getting ready for the last
+                    part of the more than 9,000 km long journey. On such a long journey, of course,
+                    disabilities can arise over which one has little control. The monsoons or other
+                    violent weather conditions make routes difficult to access and some transport
+                    falls into the water.</cmd>
+                <info>
+                    <p><image placement="inline"
+                            href="../Images/09-a3e74b38d4559792fb4a1e89b87d6850.jpg"
+                            id="image_ak5_qgy_bpb"/></p>
+                </info>
+            </step>
+            <step>
+                <cmd>With the address label and known destination, the transport company ensures a
+                    safe and agreed delivery. It finally arrived, all that remains is to unpack.
+                </cmd>
+            </step>
+        </steps>
+        <result id="result_l25_m1c_bpb">When the long-awaited piece of furniture is finally at your
+            home, you'll now know that it has been on an adventurous journey. You'll surely enjoy
+            the special and high-quality furniture for a very long time.<p>
+                <note class="- topic/note " id="note_hrw_jpw_kpb" type="notice">Certain lengths of
+                    wood may be currently difficult to grasp for production or that no containers
+                    are available. Ships have already been overbooked, which again leads to new
+                    waiting times. In addition, there are only 1 to 2 loading days per week in
+                    Mundra, so you've to queue at the back if you arrived too late. Again and again,
+                    there are controls and visual inspections by the authorities in India, just like
+                    in Poland, and that too takes time.</note>
+            </p><p>
+                <note id="note_dcp_wpw_kpb" type="note">Incidentally, there's no work on holidays
+                    such as Holy and Diwali in India, but these we can at least predict.</note>
+            </p></result>
+    </taskbody>
+</task>

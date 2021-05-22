@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
 <reference id="R02_the_most_popular_furnishing_styles_at_a_glance">
-    <title>The most popular furnishing styles at a glance</title>
-    <shortdesc>You are wondering which style may suits your home? Here you will find basic
-        information about most popular of them which help you made the decision.</shortdesc>
+    <title>Furnishing styles in short</title>
+    <shortdesc>You're wondering which style may suits your home? Here you'll find basic information
+        about most popular of them which help you made the decision.</shortdesc>
     <refbody>
         <example>
-            <p>The search for new furniture is not always easy and is often annoying and
+            <p>The search for new furniture isn't always easy and is often annoying and
                 time-consuming. Furniture shops on the Internet or in the vicinity offer numerous
                 designs and styles. From classic to rustic to simply modern furniture, a wide range
                 of products is offered that makes the question of the right type of furnishing much
                 more difficult.</p>
-            <p>In this blog post we will introduce you to the most popular designs and explain which
+            <p>In this blog post we'll introduce you to the most popular designs and explain which
                 one suits you.</p>
         </example>
         <table id="table_hdj_2wq_bpb">
             <title/>
-            <tgroup cols="6">
+            <tgroup cols="6" align="center">
                 <colspec colname="c1" colnum="1" colwidth="54.75pt"/>
                 <colspec colname="c2" colnum="2" colwidth="161.25pt"/>
                 <colspec colname="c3" colnum="3" colwidth="60.75pt"/>
@@ -36,24 +36,27 @@
                 <tbody>
                     <row>
                         <entry>Colonial</entry>
-                        <entry><image placement="inline" href="../Images/09-331-620-4704_35191.jpg"
-                                id="image_arl_xwq_bpb"/></entry>
-                        <entry>Oxford</entry>
+                        <entry><image placement="inline" href="../Images/colonial_style.jpg"
+                                id="image_srd_vct_rpb">
+                                <alt>a piece of furniture in colonial style</alt>
+                            </image></entry>
+                        <entry><keyword keyref="rangeA"/></entry>
                         <entry>A historical architectural style that even goes back well into the
                             16th or 17th century and shows typical elements of the Baroque and
                             Renaissance periods.</entry>
-                        <entry>The style of living itself emerged in the 19th century and was first
-                            used in mansions in India and in the African continent during the times
+                        <entry>The style of living itself emerged in the 19th century and became
+                            popular in mansions in India and the African continent during the times
                             of colonization.</entry>
-                        <entry>This style suits those who walue classic and solidity. Subtle
-                            curvings and iron elements highlight the kolonial origin.</entry>
+                        <entry>This style suits those who value classic and solidity. Subtle
+                            curvings and iron elements highlight the colonial origin.</entry>
                     </row>
                     <row>
                         <entry>Industrial</entry>
-                        <entry><image placement="inline"
-                                href="../Images/09-312-811-0006_5713-300x211.jpg"
-                                id="image_tr1_ywq_bpb"/></entry>
-                        <entry>Factory</entry>
+                        <entry><image placement="inline" href="../Images/industrial_style.jpg"
+                                id="image_jph_hdt_rpb">
+                                <alt>a piece of furniture in industrial style</alt>
+                            </image></entry>
+                        <entry><keyword keyref="rangeE"/></entry>
                         <entry>The industrial style is a style that stands out particularly with the
                             combination of wood and metal. In general, this furniture evokes a cool
                             loft character and leaves a lasting impression on the viewer.</entry>
@@ -65,49 +68,51 @@
                     </row>
                     <row>
                         <entry>Vintage</entry>
-                        <entry><image placement="inline"
-                                href="../Images/09-312-751-0004_7924-300x211.jpg"
-                                id="image_inp_ywq_bpb"/></entry>
-                        <entry>Fable</entry>
+                        <entry><image placement="inline" href="../Images/vintage_style.jpg"
+                                id="image_l25_ldt_rpb">
+                                <alt>a piece of furniture in vintage style</alt>
+                            </image></entry>
+                        <entry><keyword keyref="rangeD"/></entry>
                         <entry>The design direction is based on what is known as the “used look”,
                             meaning traces of use brought about on purpose, which are intended to
-                            give the appearance a certain antiquity.</entry>
+                            give the appearance of certain antiquity.</entry>
                         <entry>When it comes to furniture, the vintage style means a retro look that
                             was particularly popular in the 1930s through to the 1970s.</entry>
                         <entry>This furnishing style combines imaginative art with nostalgia. Since
-                            each items is unrepeteable it is the right choice for everyone who looks
-                            for uniquness.</entry>
+                            each item is unrepeatable it's the right choice for everyone who looks
+                            for uniqueness.</entry>
                     </row>
                     <row>
                         <entry>Modern</entry>
-                        <entry><image placement="inline"
-                                href="../Images/09-310-550-0063_294-300x211.jpg"
-                                id="image_yvz_ywq_bpb"/></entry>
-                        <entry>Metro life</entry>
+                        <entry><image placement="inline" href="../Images/modern_style.jpg"
+                                id="image_pbh_5dt_rpb">
+                                <alt>a piece of furniture in modern style</alt>
+                            </image></entry>
+                        <entry><keyword keyref="rangeG"/></entry>
                         <entry>Simple shapes without any particular conspicuous features. The design
                             is rather straightforward and has cubic elements.</entry>
-                        <entry>The term “modern” cannot be defined in general terms in the furniture
-                            industry. So every year there are always new design directions that
-                            would fall into this category.</entry>
+                        <entry>It is hard to define in general the term “modern” in the furniture
+                            industry. So every year there're always new design directions that would
+                            fall into this category.</entry>
                         <entry>If you want to adapt to the time, we recommend exactly the ones just
                             mentioned features to look out for.</entry>
                     </row>
                     <row>
                         <entry>Loft</entry>
-                        <entry><image placement="inline"
-                                href="../Images/09-330-803-5102_9172-300x211.jpg"
-                                id="image_erl_zwq_bpb"/></entry>
-                        <entry>Detroit</entry>
-                        <entry>This type of setup has to as simple as possible. In order to visually
+                        <entry><image placement="inline" href="../Images/loft_style.jpg"
+                                id="image_iwd_ydt_rpb">
+                                <alt>a piece of furniture in loft style</alt>
+                            </image></entry>
+                        <entry><keyword keyref="rangeH"/></entry>
+                        <entry>This type of setup has to be as simple as possible. To visually
                             highlight the apartment, own creations or the painting of different
                             pieces of furniture are essential features of the loft
                             character.</entry>
-                        <entry>In the 1940s, empty halls, storage rooms or attics were briefly
-                            converted into living space in the USA. These lofts were particularly
-                            sought after by artists who were looking for an inexpensive alternative
-                            to living.</entry>
-                        <entry>This type of furniture is definitely recommended for those who also
-                            have a loft apartment.</entry>
+                        <entry>In the 1940s, people converted empty halls, storage rooms, or attics
+                            into living spaces in the USA. Artists particularly sought these lofts
+                            as an inexpensive alternative to living.</entry>
+                        <entry>It's the type of furniture for you if you have a loft apartment
+                            .</entry>
                     </row>
                 </tbody>
             </tgroup>

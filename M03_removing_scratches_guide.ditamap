@@ -2,6 +2,6 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
     <title>Removing scratches guide</title>
-    <topicref href="Topics/T03B_removing_scratches.dita"/>
+    <topicref href="Topics/T03B_remove_scratches.dita"/>
     <topicref href="Topics/Glossary/M05_glossary_dpd.ditamap" format="ditamap"/>
 </map>
