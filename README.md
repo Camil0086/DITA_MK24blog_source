@@ -22,3 +22,4 @@ In first three commits I have added updated topics
 * 20.05.2021 - in this update I have added keys for ranges' names and amended topics C04, C05A, C05B, T03A, and T03B on the basis of chosen styleguide
 * 22.05.2021 - graduation update
 * 03.06.2021 - copyright update
+* 08.06.2021 - further copyright and small content update
