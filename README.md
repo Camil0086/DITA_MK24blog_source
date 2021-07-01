@@ -23,3 +23,4 @@ In first three commits I have added updated topics
 * 22.05.2021 - graduation update
 * 03.06.2021 - copyright update
 * 08.06.2021 - further copyright and small content update
+* 01.07.2021 - further copyright and small content update
