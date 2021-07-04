@@ -14,7 +14,7 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>M01_blog.ditamap</String>
+                                    <String>Topics/Glossary/M05_glossary.ditamap</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -34,7 +34,7 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>Topics/Glossary/M05_glossary.ditamap</String>
+                                    <String>M01_blog.ditamap</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
