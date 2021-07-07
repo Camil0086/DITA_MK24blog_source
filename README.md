@@ -25,3 +25,4 @@ In first three commits I have added updated topics
 * 08.06.2021 - further copyright and small content update
 * 01.07.2021 - further copyright and small content update
 * 04.07.2021 - small layout update
+* 07.07.2021 - further layout update

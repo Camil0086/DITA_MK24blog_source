@@ -29,9 +29,8 @@
                 <tbody>
                     <row>
                         <entry>Acacia</entry>
-                        <entry><image placement="inline"
-                                href="../Images/Akazie-natur-lackiert-FREEFORM-3_23072-300x212.jpg"
-                                id="image_jxw_zsq_bpb"/></entry>
+                        <entry><image placement="inline" href="../Images/acacia_wood_sample.jpg"
+                                id="image_qjp_tql_2qb"/></entry>
                         <entry>high strength, hardness, and resistance</entry>
                         <entry>Insensitive to moisture and fungi.</entry>
                         <entry>Suitable for indoor and outdoor use.</entry>
@@ -40,9 +39,8 @@
                     </row>
                     <row>
                         <entry>Old wood</entry>
-                        <entry><image placement="inline"
-                                href="../Images/Altholz-mehrfarbig-lackiert-NATURE-OF-SPIRIT_15431-768x543.jpg"
-                                id="image_v2q_1tq_bpb"/></entry>
+                        <entry><image placement="inline" href="../Images/recycled_wood_sample.jpg"
+                                id="image_pcs_5ql_2qb"/></entry>
                         <entry>Durable and wear-resistant.</entry>
                         <entry>a mixture of different types of wood</entry>
                         <entry>Particularly suitable for outdoors.</entry>
@@ -51,8 +49,7 @@
                     </row>
                     <row>
                         <entry>Oak</entry>
-                        <entry><image placement="inline"
-                                href="../Images/48-900-300-9000-_1-768x543.jpg"
+                        <entry><image placement="inline" href="../Images/oak_wood_sample.jpg"
                                 id="image_wfn_ltq_bpb"/></entry>
                         <entry>hard, heavy, and durable</entry>
                         <entry>widely spread wood used in a variety of ways.</entry>
@@ -62,7 +59,7 @@
                     </row>
                     <row>
                         <entry>Mango</entry>
-                        <entry><image placement="inline" href="../Images/mangoholz-1.jpg"
+                        <entry><image placement="inline" href="../Images/mango_wood_sample.jpg"
                                 id="image_ddd_mtq_bpb"/></entry>
                         <entry>light, hard, and robust</entry>
                         <entry>concise grain</entry>
@@ -72,7 +69,7 @@
                     </row>
                     <row>
                         <entry>Sheesham / Rosewood</entry>
-                        <entry><image placement="inline" href="../Images/2_1399733798-1.jpg"
+                        <entry><image placement="inline" href="../Images/sheesham_wood_sample.jpg"
                                 id="image_w14_mtq_bpb"/></entry>
                         <entry>hard and resistant</entry>
                         <entry>large and wide tree trunks</entry>

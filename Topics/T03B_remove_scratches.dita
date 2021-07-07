@@ -13,8 +13,8 @@
             can easily repair or hide minor damage. How does it work? We asked our master carpenter
             Stefan for you again. <p>And here you'll find his ultimate tips on how to best tackle
                 pressure and impact points, scratches, and holes in the wood.</p><p><image
-                    placement="inline" href="../Images/first_aid.jpg" id="image_zsh_5qg_rpb"
-                    audience="expert">
+                    placement="inline" href="../Images/first_aid.jpg" width="1000"
+                    id="image_wlc_3bt_2qb">
                     <alt>picture of a chest with a huge adhesive bandage</alt>
                 </image></p><p>In general, raw wood always requires fewer work steps than treated
                 wood, because the following applies: if you chop wood, chips flew and where you sand
@@ -43,10 +43,12 @@
                 <cmd>In case of minor <b>scratches</b>, you can achieve visually a lot with little
                     effort. A retouching pen in the right color is often sufficient.</cmd>
                 <info>
-                    <p><image placement="inline" href="../Images/scratch_treatment_1.jpg"
-                            id="image_jgx_crg_rpb" audience="expert">
+                    <p>
+                        <image placement="break" href="../Images/scratch_treatment_1.jpg"
+                            align="center" id="image_inx_lbt_2qb">
                             <alt>scratches on the surface of a piece of furniture</alt>
-                        </image></p>
+                        </image>
+                    </p>
                     <p>
                         <note id="note_bvk_dtj_bpb" type="tip">As an alternative, you can use a
                             water-based <term keyref="G10_wood_stain"/>.</note>
@@ -56,17 +58,21 @@
             <step>
                 <cmd>If you choose a <term keyref="G10_wood_stain"/>, dilute it to the desired shade
                     and brush the appropriate area.</cmd>
-                <info><image placement="inline" href="../Images/scratch_treatment_2.jpg"
-                        id="image_ptq_hrg_rpb" audience="expert">
+                <info>
+                    <image placement="break" href="../Images/scratch_treatment_2.jpg" align="center"
+                        id="image_r11_pbt_2qb">
                         <alt>rubbing wood stain into the scratches</alt>
-                    </image></info>
+                    </image>
+                </info>
             </step>
             <step>
                 <cmd>If the color matches the quirk, it is no longer noticeable.</cmd>
-                <info><image placement="inline" href="../Images/scratch_treatment_3.jpg"
-                        id="image_hrz_krg_rpb" audience="expert">
+                <info>
+                    <image placement="break" href="../Images/scratch_treatment_3.jpg" align="center"
+                        id="image_ygm_sbt_2qb">
                         <alt>final effect of scratches treatment</alt>
-                    </image></info>
+                    </image>
+                </info>
                 <info>
                     <p>
                         <note id="note_vwl_x2x_lpb" type="tip">If necessary, please use nitro spray

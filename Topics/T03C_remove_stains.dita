@@ -28,10 +28,12 @@
             </step>
             <step>
                 <cmd>Rub it into the affected area.</cmd>
-                <info><image placement="inline" href="../Images/cleaning_stain.jpg"
-                        id="image_kbm_mws_rpb" audience="expert">
+                <info>
+                    <image placement="break" href="../Images/cleaning_stain.jpg" align="center"
+                        id="image_nyg_tct_2qb">
                         <alt>an agent rubbed into a stain</alt>
-                    </image></info>
+                    </image>
+                </info>
                 <info>
                     <note id="note_mkn_1wz_lpb" type="important">Always work in the direction of the
                         grain and careful small circular movements, so you get the best results and
@@ -94,9 +96,10 @@
         <result id="result_kvm_ytj_bpb">After removing the stain, it's important to treat the entire
             surface with fine sandpaper and finish with staining, waxing, or oiling. The treated
             area is less noticeable and the valuable furniture looks new again.<p>Below you'll find
-                a step-by-step diagram helping to follow the above procedure.</p><p><image
-                    placement="inline" href="../Objects/stain.svg" id="image_iz3_ndg_rpb"/></p><p
-                audience="expert"><b>Document downloads:</b></p><p audience="expert"><xref
+                a step-by-step diagram helping to follow the above procedure.</p><p>
+                <image placement="break" href="../Objects/stain.svg" align="center"
+                    id="image_h3b_vct_2qb"/>
+            </p><p audience="expert"><b>Document downloads:</b></p><p audience="expert"><xref
                     href="../Objects/M04_removing_stains_guide.pdf" format="pdf">Removing stains
                     guide [PDF]</xref></p></result>
     </taskbody>

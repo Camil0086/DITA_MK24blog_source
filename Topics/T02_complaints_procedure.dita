@@ -8,10 +8,10 @@
         <context>You have finally received your product from <keyword keyref="company"/>, but
             unfortunately it is damaged? No problem! Our team will take care of your concerns. In
             the video and study case below we explain how exactly it works.<p><image
-                    placement="inline" href="../Images/rekla4-1.jpg" id="image_tf2_5gy_bpb"
-                    /></p><p><object
+                    placement="inline" href="../Images/consultant.jpg" id="image_tf2_5gy_bpb"
+                    /></p><p><object width="1230" height="692"
                     data="../Objects/Massivmoebel24%20Versand%20-und%20Reklamationsabwicklung.mp4"
-                /></p><p>
+                    outputclass="video"/></p><p>
                 <note id="note_kmn_yqw_kpb" type="important">Our team in the warehouse thoroughly
                     prepars the items to transport. Quality assurance employess are checking each
                     item before shipping to reject furniture damaged during the transport from
